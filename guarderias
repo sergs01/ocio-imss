@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ccc1a3da-6650-4d79-8eb2-2baf75488a7f",
+    "numero": "U-0019",
+    "activa": true,
+    "localidad": "Mexicali",
+    "razon_social": "Peter Pan",
+    "representante_legal": "Aaron Hernandez",
+    "directora": "Macarena Hernandez",
+    "coordinadora": "Consuelo Sandoval Marquez",
+    "ingeniero_cvms": "Sergio Hernandez",
+    "contrato": {
+      "numero": "CCG12124",
+      "url": "",
+      "clausula_supervision": "Clausula Septima",
+      "declaracion_domicilio": "II.5",
+      "fecha_firma": "2023-01-01",
+      "inicio": "2023-01-01",
+      "termino": "2026-12-31"
+    },
+    "capacidad_instalada": 220,
+    "cuota": {
+      "tipo": "Platino",
+      "monto": 6954.25
+    },
+    "descripcion_inmueble": "Super chingona",
+    "domicilio": "Por ahi..",
+    "supervisiones": {
+      "s1": "98.00",
+      "s2": "99.00",
+      "s3": "98.00",
+      "s4": "99.00"
+    },
+    "extras": [
+      {
+        "nombre": "Deductiva",
+        "valor": ""
+      }
+    ],
+    "createdAt": 1756772902546
+  },
+  {
+    "id": "75ef768d-476f-40be-8958-a977545a6418",
+    "numero": "U-0224",
+    "activa": true,
+    "localidad": "Mexicali",
+    "razon_social": "Purueba",
+    "representante_legal": "Purueba",
+    "directora": "Purueba",
+    "coordinadora": "Consuelo Sandoval Marquez",
+    "ingeniero_cvms": "Purueba",
+    "correo": "sergiohernandez432@gmail.com",
+    "contrato": {
+      "numero": "CCG212121",
+      "url": "",
+      "clausula_supervision": "Purueba",
+      "declaracion_domicilio": "Purueba",
+      "fecha_firma": "2022-01-01",
+      "inicio": "2022-01-01",
+      "termino": "2025-12-31"
+    },
+    "capacidad_instalada": 120,
+    "cuota": {
+      "tipo": "Estandar",
+      "monto": 6394.71
+    },
+    "descripcion_inmueble": "PuruebaPuruebaPuruebaPurueba",
+    "domicilio": "PuruebaPuruebaPuruebaPuruebaPuruebaPuruebaPurueba",
+    "supervisiones": {
+      "s1": "",
+      "s2": "",
+      "s3": "",
+      "s4": ""
+    },
+    "extras": [],
+    "id_proveedor": "0000015548",
+    "id_contrato": "0000000000000000000014125",
+    "fianza": "23548",
+    "afianzadora": "dorama",
+    "createdAt": 1757799698408
+  }
+]
