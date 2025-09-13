@@ -1,1 +1,252 @@
+{
+  "game": "quiz",
+  "title": "Harry Potter",
+  "alias": "Sergio",
+  "attempt": 3,
+  "date": "2025-09-11T21:13:04.975Z",
+  "score": 6,
+  "total": 20,
+  "answers": [
+    {
+      "text": "¿Con qué criatura habla Harry gracias a la lengua pársel?",
+      "options": [
+        "Thestral",
+        "Basilisco",
+        "Hipogrifo",
+        "Boggart"
+      ],
+      "correct": 1,
+      "sel": 0,
+      "ok": false
+    },
+    {
+      "text": "¿Quién era el profesor de Defensa Contra las Artes Oscuras en el segundo año de Harry?",
+      "options": [
+        "Severus Snape",
+        "Gilderoy Lockhart",
+        "Remus Lupin",
+        "Quirinus Quirrell"
+      ],
+      "correct": 1,
+      "sel": 2,
+      "ok": false
+    },
+    {
+      "text": "¿Qué objeto mágico es usado para transportar a varios magos a la vez?",
+      "options": [
+        "Traslador",
+        "Polvos Flu",
+        "Thestral",
+        "Escoba"
+      ],
+      "correct": 0,
+      "sel": 1,
+      "ok": false
+    },
+    {
+      "text": "¿Qué poción permite adoptar la apariencia de otra persona?",
+      "options": [
+        "Felix Felicis",
+        "Amortentia",
+        "Veritaserum",
+        "Multijugos"
+      ],
+      "correct": 3,
+      "sel": 3,
+      "ok": true
+    },
+    {
+      "text": "¿Cuál es el nombre completo de Dumbledore?",
+      "options": [
+        "Albus Percival Wulfric Brian Dumbledore",
+        "Albus Severus Brian Dumbledore",
+        "Albus Godric Percival Dumbledore",
+        "Albus Nicolas Wulfric Dumbledore"
+      ],
+      "correct": 0,
+      "sel": 2,
+      "ok": false
+    },
+    {
+      "text": "¿Quién fue el creador del diario de Tom Riddle (el primer Horrocrux)?",
+      "options": [
+        "Lucius Malfoy",
+        "Voldemort",
+        "Bellatrix Lestrange",
+        "Grindelwald"
+      ],
+      "correct": 1,
+      "sel": 1,
+      "ok": true
+    },
+    {
+      "text": "¿Qué animal es el Patronus de Hermione?",
+      "options": [
+        "Nutria",
+        "Ciervo",
+        "Gato",
+        "Cisne"
+      ],
+      "correct": 0,
+      "sel": 3,
+      "ok": false
+    },
+    {
+      "text": "¿Cuál es la posición de Harry en el equipo de Quidditch?",
+      "options": [
+        "Golpeador",
+        "Guardián",
+        "Cazador",
+        "Buscador"
+      ],
+      "correct": 3,
+      "sel": 2,
+      "ok": false
+    },
+    {
+      "text": "¿Quién fue el verdadero dueño de la Varita de Saúco al final de la saga?",
+      "options": [
+        "Voldemort",
+        "Harry Potter",
+        "Draco Malfoy",
+        "Severus Snape"
+      ],
+      "correct": 1,
+      "sel": 0,
+      "ok": false
+    },
+    {
+      "text": "¿Cómo se llama el banco de los magos?",
+      "options": [
+        "Olivanders",
+        "Flourish and Blotts",
+        "Gringotts",
+        "Zonko’s"
+      ],
+      "correct": 2,
+      "sel": 3,
+      "ok": false
+    },
+    {
+      "text": "¿Qué criatura mágica puede transformarse en lo que más temes?",
+      "options": [
+        "Boggart",
+        "Dementor",
+        "Thestral",
+        "Basilisco"
+      ],
+      "correct": 0,
+      "sel": 2,
+      "ok": false
+    },
+    {
+      "text": "¿Cuál de estas NO es una Reliquia de la Muerte?",
+      "options": [
+        "La Varita de Saúco",
+        "La Piedra Filosofal",
+        "La Capa de Invisibilidad",
+        "La Piedra de la Resurrección"
+      ],
+      "correct": 1,
+      "sel": 0,
+      "ok": false
+    },
+    {
+      "text": "¿Quién enseña Pociones en el primer año de Harry?",
+      "options": [
+        "Remus Lupin",
+        "Gilderoy Lockhart",
+        "Severus Snape",
+        "Horace Slughorn"
+      ],
+      "correct": 2,
+      "sel": 3,
+      "ok": false
+    },
+    {
+      "text": "¿Cuál es la varita de Harry Potter?",
+      "options": [
+        "Fresno con núcleo de unicornio",
+        "Sauce con núcleo de dragón",
+        "Acebo con pluma de fénix",
+        "Roble con pelo de unicornio"
+      ],
+      "correct": 2,
+      "sel": 2,
+      "ok": true
+    },
+    {
+      "text": "¿Cuál es el animal que representa a Hufflepuff?",
+      "options": [
+        "Tejón",
+        "León",
+        "Águila",
+        "Serpiente"
+      ],
+      "correct": 0,
+      "sel": 2,
+      "ok": false
+    },
+    {
+      "text": "¿Quién mató a Dumbledore?",
+      "options": [
+        "Voldemort",
+        "Bellatrix Lestrange",
+        "Draco Malfoy",
+        "Severus Snape"
+      ],
+      "correct": 3,
+      "sel": 3,
+      "ok": true
+    },
+    {
+      "text": "¿Cuál es el segundo nombre de Harry Potter?",
+      "options": [
+        "Arthur",
+        "James",
+        "Albus",
+        "Sirius"
+      ],
+      "correct": 1,
+      "sel": 1,
+      "ok": true
+    },
+    {
+      "text": "¿Qué hechizo se utiliza para desarmar al oponente?",
+      "options": [
+        "Expelliarmus",
+        "Stupefy",
+        "Avada Kedavra",
+        "Lumos"
+      ],
+      "correct": 0,
+      "sel": 0,
+      "ok": true
+    },
+    {
+      "text": "¿Cuál es la casa a la que pertenece Draco Malfoy?",
+      "options": [
+        "Gryffindor",
+        "Hufflepuff",
+        "Slytherin",
+        "Ravenclaw"
+      ],
+      "correct": 2,
+      "sel": 3,
+      "ok": false
+    },
+    {
+      "text": "¿Quién fue el padrino de Harry Potter?",
+      "options": [
+        "Remus Lupin",
+        "Sirius Black",
+        "Severus Snape",
+        "Albus Dumbledore"
+      ],
+      "correct": 1,
+      "sel": 2,
+      "ok": false
+    }
+  ]
+}
 
