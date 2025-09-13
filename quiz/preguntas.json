@@ -1,18 +1,262 @@
 [
   {
-    "id": "q1",
-    "pregunta": "¿Cuántos días hábiles usa SIAG para respuesta?",
-    "opciones": ["3", "5", "7", "10"],
-    "correcta": 1,
-    "categoria": "General",
-    "dificultad": "Media"
+    "id": "be34ae01-1c83-447c-9143-3c3223e37530",
+    "pregunta": "¿Con qué criatura habla Harry gracias a la lengua pársel?",
+    "categoria": "Criaturas",
+    "dificultad": "Media",
+    "opciones": [
+      "Thestral",
+      "Basilisco",
+      "Hipogrifo",
+      "Boggart"
+    ],
+    "correcta": 1
   },
   {
-    "id": "q2",
-    "pregunta": "¿Los 10 días para notificación se cuentan como…?",
-    "opciones": ["Hábiles", "Naturales", "Mixtos", "Depende"],
-    "correcta": 1,
-    "categoria": "General",
-    "dificultad": "Fácil"
+    "id": "6428e361-e9b9-4667-ad9e-b2693658aed9",
+    "pregunta": "¿Quién era el profesor de Defensa Contra las Artes Oscuras en el segundo año de Harry?",
+    "categoria": "Profesores",
+    "dificultad": "Media",
+    "opciones": [
+      "Severus Snape",
+      "Gilderoy Lockhart",
+      "Remus Lupin",
+      "Quirinus Quirrell"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "f1e15313-c077-40cc-a8c7-a2c080b767f6",
+    "pregunta": "¿Qué objeto mágico es usado para transportar a varios magos a la vez?",
+    "categoria": "Objetos",
+    "dificultad": "Media",
+    "opciones": [
+      "Traslador",
+      "Polvos Flu",
+      "Thestral",
+      "Escoba"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "a5892ec5-d6c8-4b64-a5aa-fe0f729511d1",
+    "pregunta": "¿Qué poción permite adoptar la apariencia de otra persona?",
+    "categoria": "Pociones",
+    "dificultad": "Media",
+    "opciones": [
+      "Felix Felicis",
+      "Amortentia",
+      "Veritaserum",
+      "Multijugos"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "e8502d85-f385-48f5-afed-9f0ce3f706df",
+    "pregunta": "¿Cuál es el nombre completo de Dumbledore?",
+    "categoria": "Personajes",
+    "dificultad": "Difícil",
+    "opciones": [
+      "Albus Percival Wulfric Brian Dumbledore",
+      "Albus Severus Brian Dumbledore",
+      "Albus Godric Percival Dumbledore",
+      "Albus Nicolas Wulfric Dumbledore"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "17f2c4ea-1be0-4e02-8530-5402285666f7",
+    "pregunta": "¿Quién fue el creador del diario de Tom Riddle (el primer Horrocrux)?",
+    "categoria": "Historia / Objetos",
+    "dificultad": "Media",
+    "opciones": [
+      "Lucius Malfoy",
+      "Voldemort",
+      "Bellatrix Lestrange",
+      "Grindelwald"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "24e439ff-0d84-4734-bf45-bb093c6de229",
+    "pregunta": "¿Qué animal es el Patronus de Hermione?",
+    "categoria": "Hechizos / Patronus",
+    "dificultad": "Difícil",
+    "opciones": [
+      "Nutria",
+      "Ciervo",
+      "Gato",
+      "Cisne"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "8b323368-5c97-4ddc-89bb-e8ce756303c2",
+    "pregunta": "¿Cuál es la posición de Harry en el equipo de Quidditch?",
+    "categoria": "Quidditch",
+    "dificultad": "Fácil",
+    "opciones": [
+      "Golpeador",
+      "Guardián",
+      "Cazador",
+      "Buscador"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "7773e59d-4920-4e4e-8e81-68db952a0389",
+    "pregunta": "¿Quién fue el verdadero dueño de la Varita de Saúco al final de la saga?",
+    "categoria": "Historia / Objetos",
+    "dificultad": "Difícil",
+    "opciones": [
+      "Voldemort",
+      "Harry Potter",
+      "Draco Malfoy",
+      "Severus Snape"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "b7ccac48-6315-436f-9ff2-e912789c729e",
+    "pregunta": "¿Cómo se llama el banco de los magos?",
+    "categoria": "Lugares",
+    "dificultad": "Fácil",
+    "opciones": [
+      "Olivanders",
+      "Flourish and Blotts",
+      "Gringotts",
+      "Zonko’s"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "c234304c-2575-44b9-8a11-d4e21a5da623",
+    "pregunta": "¿Qué criatura mágica puede transformarse en lo que más temes?",
+    "categoria": "Criaturas",
+    "dificultad": "Media",
+    "opciones": [
+      "Boggart",
+      "Dementor",
+      "Thestral",
+      "Basilisco"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "2ec7f309-7b81-439e-8b9c-81b9535d463d",
+    "pregunta": "¿Cuál de estas NO es una Reliquia de la Muerte?",
+    "categoria": "Objetos",
+    "dificultad": "Media",
+    "opciones": [
+      "La Varita de Saúco",
+      "La Piedra Filosofal",
+      "La Capa de Invisibilidad",
+      "La Piedra de la Resurrección"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "57d189f5-52e4-441a-8989-fb4ac43c734b",
+    "pregunta": "¿Quién enseña Pociones en el primer año de Harry?",
+    "categoria": "Profesores / Pociones",
+    "dificultad": "Fácil",
+    "opciones": [
+      "Remus Lupin",
+      "Gilderoy Lockhart",
+      "Severus Snape",
+      "Horace Slughorn"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "0b6402bd-8f64-482e-a669-7d518f06ed9b",
+    "pregunta": "¿Cuál es la varita de Harry Potter?",
+    "categoria": "Objetos",
+    "dificultad": "Media",
+    "opciones": [
+      "Fresno con núcleo de unicornio",
+      "Sauce con núcleo de dragón",
+      "Acebo con pluma de fénix",
+      "Roble con pelo de unicornio"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "9e66eddb-fbd8-4ffe-8da9-bd7efcde1d5b",
+    "pregunta": "¿Cuál es el animal que representa a Hufflepuff?",
+    "categoria": "Casas",
+    "dificultad": "Fácil",
+    "opciones": [
+      "Tejón",
+      "León",
+      "Águila",
+      "Serpiente"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "7b5e1296-0e82-4956-9244-ecc199478ce5",
+    "pregunta": "¿Quién mató a Dumbledore?",
+    "categoria": "Historia",
+    "dificultad": "Media",
+    "opciones": [
+      "Voldemort",
+      "Bellatrix Lestrange",
+      "Draco Malfoy",
+      "Severus Snape"
+    ],
+    "correcta": 3
+  },
+  {
+    "id": "286e2d72-87c0-4213-a965-e0d868a5a522",
+    "pregunta": "¿Cuál es el segundo nombre de Harry Potter?",
+    "categoria": "Personajes",
+    "dificultad": "Media",
+    "opciones": [
+      "Arthur",
+      "James",
+      "Albus",
+      "Sirius"
+    ],
+    "correcta": 1
+  },
+  {
+    "id": "e0bcf17a-267f-4cb0-a40d-999c2498e138",
+    "pregunta": "¿Qué hechizo se utiliza para desarmar al oponente?",
+    "categoria": "Hechizos",
+    "dificultad": "Fácil",
+    "opciones": [
+      "Expelliarmus",
+      "Stupefy",
+      "Avada Kedavra",
+      "Lumos"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": "9d715a90-fcc7-4ce8-a9e0-1e34cb8b90b7",
+    "pregunta": "¿Cuál es la casa a la que pertenece Draco Malfoy?",
+    "categoria": "Casas",
+    "dificultad": "Fácil",
+    "opciones": [
+      "Gryffindor",
+      "Hufflepuff",
+      "Slytherin",
+      "Ravenclaw"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": "863d7226-e950-4dc9-9930-a61995eb9479",
+    "pregunta": "¿Quién fue el padrino de Harry Potter?",
+    "categoria": "Personajes",
+    "dificultad": "Fácil",
+    "opciones": [
+      "Remus Lupin",
+      "Sirius Black",
+      "Severus Snape",
+      "Albus Dumbledore"
+    ],
+    "correcta": 1
   }
 ]
