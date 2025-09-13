@@ -1,0 +1,3090 @@
+{
+  "version": "2025-09-13",
+  "procedimientos": [
+    {
+      "id": "proc_administraci�n",
+      "nombre": "Administraci�n",
+      "procesos": [
+        {
+          "id": "pr_administraci�n_seguridad",
+          "nombre": "Seguridad",
+          "elementosEstandar": [
+            {
+              "id": "es_administraci�n_seguridad_protocolo",
+              "nombre": "Protocolo",
+              "elementosMedibles": [
+                {
+                  "id": "em_administraci�n_seguridad_protocolo_medidas_preventivas",
+                  "nombre": "Medidas preventivas",
+                  "puntos": [
+                    {
+                      "id": "1",
+                      "numero": 1,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "2",
+                      "numero": 2,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "14",
+                      "numero": 14,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "28",
+                      "numero": 28,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "123",
+                      "numero": 123,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "151",
+                      "numero": 151,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "152",
+                      "numero": 152,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "153",
+                      "numero": 153,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "168",
+                      "numero": 168,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "172",
+                      "numero": 172,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "173",
+                      "numero": 173,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "210",
+                      "numero": 210,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "214",
+                      "numero": 214,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "216",
+                      "numero": 216,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "217",
+                      "numero": 217,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "218",
+                      "numero": 218,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "219",
+                      "numero": 219,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "220",
+                      "numero": 220,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "221",
+                      "numero": 221,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "222",
+                      "numero": 222,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "223",
+                      "numero": 223,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "224",
+                      "numero": 224,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "226",
+                      "numero": 226,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "227",
+                      "numero": 227,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "228",
+                      "numero": 228,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "229",
+                      "numero": 229,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "230",
+                      "numero": 230,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "232",
+                      "numero": 232,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_administraci�n_registro",
+          "nombre": "Registro",
+          "elementosEstandar": [
+            {
+              "id": "es_administraci�n_registro_recepci�n",
+              "nombre": "Recepci�n",
+              "elementosMedibles": [
+                {
+                  "id": "em_administraci�n_registro_recepci�n_m�todo_de_recepci�n",
+                  "nombre": "M�todo de recepci�n",
+                  "puntos": [
+                    {
+                      "id": "3",
+                      "numero": 3,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_administraci�n_registro_entrega",
+              "nombre": "Entrega",
+              "elementosMedibles": [
+                {
+                  "id": "em_administraci�n_registro_entrega_m�todo_de_entrega",
+                  "nombre": "M�todo de  entrega",
+                  "puntos": [
+                    {
+                      "id": "74",
+                      "numero": 74,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "75",
+                      "numero": 75,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_administraci�n_personal",
+          "nombre": "Personal",
+          "elementosEstandar": [
+            {
+              "id": "es_administraci�n_personal_plantilla_de_personal",
+              "nombre": "Plantilla de personal",
+              "elementosMedibles": [
+                {
+                  "id": "em_administraci�n_personal_plantilla_de_personal_cobertura",
+                  "nombre": "Cobertura",
+                  "puntos": [
+                    {
+                      "id": "20",
+                      "numero": 20,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "189",
+                      "numero": 189,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "203",
+                      "numero": 203,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "204",
+                      "numero": 204,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "207",
+                      "numero": 207,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "208",
+                      "numero": 208,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_administraci�n_personal_plantilla_de_personal_c�digo_de_conducta",
+                  "nombre": "C�digo de conducta",
+                  "puntos": [
+                    {
+                      "id": "176",
+                      "numero": 176,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "179",
+                      "numero": 179,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "180",
+                      "numero": 180,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "181",
+                      "numero": 181,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_administraci�n_personal_plantilla_de_personal_capacitaci�n",
+                  "nombre": "Capacitaci�n",
+                  "puntos": [
+                    {
+                      "id": "188",
+                      "numero": 188,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "191",
+                      "numero": 191,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "192",
+                      "numero": 192,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "193",
+                      "numero": 193,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "194",
+                      "numero": 194,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "195",
+                      "numero": 195,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "196",
+                      "numero": 196,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "197",
+                      "numero": 197,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "198",
+                      "numero": 198,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "200",
+                      "numero": 200,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "201",
+                      "numero": 201,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "215",
+                      "numero": 215,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_administraci�n_personal_plantilla_de_personal_perfil_del_puesto",
+                  "nombre": "Perfil del puesto",
+                  "puntos": [
+                    {
+                      "id": "199",
+                      "numero": 199,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "202",
+                      "numero": 202,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "205",
+                      "numero": 205,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "206",
+                      "numero": 206,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_administraci�n_higiene",
+          "nombre": "Higiene",
+          "elementosEstandar": [
+            {
+              "id": "es_administraci�n_higiene_saneamiento_personal",
+              "nombre": "Saneamiento personal",
+              "elementosMedibles": [
+                {
+                  "id": "em_administraci�n_higiene_saneamiento_personal_rutina_de_higiene",
+                  "nombre": "Rutina de higiene",
+                  "puntos": [
+                    {
+                      "id": "26",
+                      "numero": 26,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "177",
+                      "numero": 177,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "178",
+                      "numero": 178,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_administraci�n_higiene_saneamiento_de_superficies",
+              "nombre": "Saneamiento de superficies",
+              "elementosMedibles": [
+                {
+                  "id": "em_administraci�n_higiene_saneamiento_de_superficies_instalaciones",
+                  "nombre": "Instalaciones",
+                  "puntos": [
+                    {
+                      "id": "156",
+                      "numero": 156,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "157",
+                      "numero": 157,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_administraci�n_higiene_saneamiento_de_superficies_recursos",
+                  "nombre": "Recursos",
+                  "puntos": [
+                    {
+                      "id": "162",
+                      "numero": 162,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "165",
+                      "numero": 165,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "182",
+                      "numero": 182,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "183",
+                      "numero": 183,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "225",
+                      "numero": 225,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_administraci�n_alimentaci�n",
+          "nombre": "Alimentaci�n",
+          "elementosEstandar": [
+            {
+              "id": "es_administraci�n_alimentaci�n_seguimiento_alimentario",
+              "nombre": "Seguimiento alimentario",
+              "elementosMedibles": [
+                {
+                  "id": "em_administraci�n_alimentaci�n_seguimiento_alimentario_medidas_preventivas",
+                  "nombre": "Medidas preventivas",
+                  "puntos": [
+                    {
+                      "id": "27",
+                      "numero": 27,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "29",
+                      "numero": 29,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_administraci�n_gesti�n",
+          "nombre": "Gesti�n",
+          "elementosEstandar": [
+            {
+              "id": "es_administraci�n_gesti�n_mejora_continua",
+              "nombre": "Mejora continua",
+              "elementosMedibles": [
+                {
+                  "id": "em_administraci�n_gesti�n_mejora_continua_acciones_correctivas_y_preventivas",
+                  "nombre": "Acciones correctivas y preventivas",
+                  "puntos": [
+                    {
+                      "id": "72",
+                      "numero": 72,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "89",
+                      "numero": 89,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "115",
+                      "numero": 115,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "116",
+                      "numero": 116,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "117",
+                      "numero": 117,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "118",
+                      "numero": 118,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "119",
+                      "numero": 119,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "120",
+                      "numero": 120,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "121",
+                      "numero": 121,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "122",
+                      "numero": 122,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "149",
+                      "numero": 149,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "150",
+                      "numero": 150,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "166",
+                      "numero": 166,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "167",
+                      "numero": 167,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "169",
+                      "numero": 169,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "185",
+                      "numero": 185,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "186",
+                      "numero": 186,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "190",
+                      "numero": 190,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "231",
+                      "numero": 231,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "233",
+                      "numero": 233,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "234",
+                      "numero": 234,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "235",
+                      "numero": 235,
+                      "descripcion": "",
+                      "nivelRiesgo": "N/A\nPC SIN PONDERACI�N",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "236",
+                      "numero": 236,
+                      "descripcion": "",
+                      "nivelRiesgo": "N/A\nPC SIN PONDERACI�N",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_administraci�n_gesti�n_siag",
+              "nombre": "SIAG",
+              "elementosMedibles": [
+                {
+                  "id": "em_administraci�n_gesti�n_siag_acciones_administrativas",
+                  "nombre": "Acciones administrativas",
+                  "puntos": [
+                    {
+                      "id": "73",
+                      "numero": 73,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "82",
+                      "numero": 82,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "83",
+                      "numero": 83,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "84",
+                      "numero": 84,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "85",
+                      "numero": 85,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "86",
+                      "numero": 86,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "87",
+                      "numero": 87,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "88",
+                      "numero": 88,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "209",
+                      "numero": 209,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "237",
+                      "numero": 237,
+                      "descripcion": "",
+                      "nivelRiesgo": "N/A\nPC SIN PONDERACI�N",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_administraci�n_gesti�n_protocolo",
+              "nombre": "Protocolo",
+              "elementosMedibles": [
+                {
+                  "id": "em_administraci�n_gesti�n_protocolo_medidas_preventivas",
+                  "nombre": "Medidas preventivas",
+                  "puntos": [
+                    {
+                      "id": "211",
+                      "numero": 211,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_administraci�n_mantenimiento",
+          "nombre": "Mantenimiento",
+          "elementosEstandar": [
+            {
+              "id": "es_administraci�n_mantenimiento_conservaci�n",
+              "nombre": "Conservaci�n",
+              "elementosMedibles": [
+                {
+                  "id": "em_administraci�n_mantenimiento_conservaci�n_infraestructura",
+                  "nombre": "Infraestructura",
+                  "puntos": [
+                    {
+                      "id": "124",
+                      "numero": 124,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "125",
+                      "numero": 125,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "154",
+                      "numero": 154,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "155",
+                      "numero": 155,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "159",
+                      "numero": 159,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "160",
+                      "numero": 160,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "171",
+                      "numero": 171,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "174",
+                      "numero": 174,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "175",
+                      "numero": 175,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_administraci�n_mantenimiento_conservaci�n_equipamiento",
+                  "nombre": "Equipamiento",
+                  "puntos": [
+                    {
+                      "id": "161",
+                      "numero": 161,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "170",
+                      "numero": 170,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proc_pedagog�a",
+      "nombre": "Pedagog�a",
+      "procesos": [
+        {
+          "id": "pr_pedagog�a_registro",
+          "nombre": "Registro",
+          "elementosEstandar": [
+            {
+              "id": "es_pedagog�a_registro_recepci�n",
+              "nombre": "Recepci�n",
+              "elementosMedibles": [
+                {
+                  "id": "em_pedagog�a_registro_recepci�n_m�todo_de_recepci�n",
+                  "nombre": "M�todo de recepci�n",
+                  "puntos": [
+                    {
+                      "id": "4",
+                      "numero": 4,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "5",
+                      "numero": 5,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "6",
+                      "numero": 6,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "7",
+                      "numero": 7,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "8",
+                      "numero": 8,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "15",
+                      "numero": 15,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "16",
+                      "numero": 16,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "17",
+                      "numero": 17,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "18",
+                      "numero": 18,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "76",
+                      "numero": 76,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "80",
+                      "numero": 80,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "81",
+                      "numero": 81,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_pedagog�a_registro_entrega",
+              "nombre": "Entrega",
+              "elementosMedibles": [
+                {
+                  "id": "em_pedagog�a_registro_entrega_m�todo_de_entrega",
+                  "nombre": "M�todo de  entrega",
+                  "puntos": [
+                    {
+                      "id": "77",
+                      "numero": 77,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "78",
+                      "numero": 78,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_pedagog�a_higiene",
+          "nombre": "Higiene",
+          "elementosEstandar": [
+            {
+              "id": "es_pedagog�a_higiene_saneamiento_personal",
+              "nombre": "Saneamiento personal",
+              "elementosMedibles": [
+                {
+                  "id": "em_pedagog�a_higiene_saneamiento_personal_rutina_de_higiene",
+                  "nombre": "Rutina de higiene",
+                  "puntos": [
+                    {
+                      "id": "21",
+                      "numero": 21,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "25",
+                      "numero": 25,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "41",
+                      "numero": 41,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "47",
+                      "numero": 47,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "66",
+                      "numero": 66,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "67",
+                      "numero": 67,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "69",
+                      "numero": 69,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "71",
+                      "numero": 71,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_pedagog�a_higiene_saneamiento_personal_medidas_preventivas",
+                  "nombre": "Medidas preventivas",
+                  "puntos": [
+                    {
+                      "id": "43",
+                      "numero": 43,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "44",
+                      "numero": 44,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "45",
+                      "numero": 45,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "46",
+                      "numero": 46,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "48",
+                      "numero": 48,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "68",
+                      "numero": 68,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "70",
+                      "numero": 70,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_pedagog�a_higiene_saneamiento_de_superficies",
+              "nombre": "Saneamiento de superficies",
+              "elementosMedibles": [
+                {
+                  "id": "em_pedagog�a_higiene_saneamiento_de_superficies_recursos",
+                  "nombre": "Recursos",
+                  "puntos": [
+                    {
+                      "id": "42",
+                      "numero": 42,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "163",
+                      "numero": 163,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_pedagog�a_alimentaci�n",
+          "nombre": "Alimentaci�n",
+          "elementosEstandar": [
+            {
+              "id": "es_pedagog�a_alimentaci�n_placa",
+              "nombre": "PLACA",
+              "elementosMedibles": [
+                {
+                  "id": "em_pedagog�a_alimentaci�n_placa_ministraci�n_de_alimentos",
+                  "nombre": "Ministraci�n de alimentos",
+                  "puntos": [
+                    {
+                      "id": "32",
+                      "numero": 32,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "33",
+                      "numero": 33,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "34",
+                      "numero": 34,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "35",
+                      "numero": 35,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "36",
+                      "numero": 36,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "37",
+                      "numero": 37,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_pedagog�a_alimentaci�n_seguimiento_alimentario",
+              "nombre": "Seguimiento alimentario",
+              "elementosMedibles": [
+                {
+                  "id": "em_pedagog�a_alimentaci�n_seguimiento_alimentario_medidas_preventivas",
+                  "nombre": "Medidas preventivas",
+                  "puntos": [
+                    {
+                      "id": "38",
+                      "numero": 38,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "39",
+                      "numero": 39,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "40",
+                      "numero": 40,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_pedagog�a_pedagog�a",
+          "nombre": "Pedagog�a",
+          "elementosEstandar": [
+            {
+              "id": "es_pedagog�a_pedagog�a_sue�o_o_descanso",
+              "nombre": "Sue�o o descanso",
+              "elementosMedibles": [
+                {
+                  "id": "em_pedagog�a_pedagog�a_sue�o_o_descanso_preparaci�n",
+                  "nombre": "Preparaci�n",
+                  "puntos": [
+                    {
+                      "id": "49",
+                      "numero": 49,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "50",
+                      "numero": 50,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "51",
+                      "numero": 51,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_pedagog�a_pedagog�a_sue�o_o_descanso_vigilancia",
+                  "nombre": "Vigilancia",
+                  "puntos": [
+                    {
+                      "id": "52",
+                      "numero": 52,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "53",
+                      "numero": 53,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "54",
+                      "numero": 54,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_pedagog�a_pedagog�a_sostenimiento_afectivo",
+              "nombre": "Sostenimiento afectivo",
+              "elementosMedibles": [
+                {
+                  "id": "em_pedagog�a_pedagog�a_sostenimiento_afectivo_acciones",
+                  "nombre": "Acciones",
+                  "puntos": [
+                    {
+                      "id": "55",
+                      "numero": 55,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "65",
+                      "numero": 65,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "112",
+                      "numero": 112,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "113",
+                      "numero": 113,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_pedagog�a_pedagog�a_desarrollo_del_ni�o",
+              "nombre": "Desarrollo del ni�o",
+              "elementosMedibles": [
+                {
+                  "id": "em_pedagog�a_pedagog�a_desarrollo_del_ni�o_periodo_de_adaptaci�n",
+                  "nombre": "Periodo de adaptaci�n",
+                  "puntos": [
+                    {
+                      "id": "56",
+                      "numero": 56,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "57",
+                      "numero": 57,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "58",
+                      "numero": 58,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_pedagog�a_pedagog�a_desarrollo_del_ni�o_evaluaci�n",
+                  "nombre": "Evaluaci�n",
+                  "puntos": [
+                    {
+                      "id": "140",
+                      "numero": 140,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "142",
+                      "numero": 142,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "144",
+                      "numero": 144,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_pedagog�a_pedagog�a_acciones_pedag�gicas",
+              "nombre": "Acciones pedag�gicas",
+              "elementosMedibles": [
+                {
+                  "id": "em_pedagog�a_pedagog�a_acciones_pedag�gicas_planeaci�n",
+                  "nombre": "Planeaci�n",
+                  "puntos": [
+                    {
+                      "id": "60",
+                      "numero": 60,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "61",
+                      "numero": 61,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_pedagog�a_pedagog�a_acciones_pedag�gicas_implementaci�n",
+                  "nombre": "Implementaci�n",
+                  "puntos": [
+                    {
+                      "id": "62",
+                      "numero": 62,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "63",
+                      "numero": 63,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "64",
+                      "numero": 64,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "79",
+                      "numero": 79,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "147",
+                      "numero": 147,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "148",
+                      "numero": 148,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "212",
+                      "numero": 212,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_pedagog�a_gesti�n",
+          "nombre": "Gesti�n",
+          "elementosEstandar": [
+            {
+              "id": "es_pedagog�a_gesti�n_mejora_continua",
+              "nombre": "Mejora continua",
+              "elementosMedibles": [
+                {
+                  "id": "em_pedagog�a_gesti�n_mejora_continua_acciones_correctivas_y_preventivas",
+                  "nombre": "Acciones correctivas y preventivas",
+                  "puntos": [
+                    {
+                      "id": "143",
+                      "numero": 143,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "145",
+                      "numero": 145,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "146",
+                      "numero": 146,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proc_fomento_de_la_salud",
+      "nombre": "Fomento de la Salud",
+      "procesos": [
+        {
+          "id": "pr_fomento_de_la_salud_registro",
+          "nombre": "Registro",
+          "elementosEstandar": [
+            {
+              "id": "es_fomento_de_la_salud_registro_recepci�n",
+              "nombre": "Recepci�n",
+              "elementosMedibles": [
+                {
+                  "id": "em_fomento_de_la_salud_registro_recepci�n_m�todo_de_recepci�n",
+                  "nombre": "M�todo de recepci�n",
+                  "puntos": [
+                    {
+                      "id": "9",
+                      "numero": 9,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "10",
+                      "numero": 10,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "11",
+                      "numero": 11,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "12",
+                      "numero": 12,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "13",
+                      "numero": 13,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_fomento_de_la_salud_fomento_salud",
+          "nombre": "Fomento Salud",
+          "elementosEstandar": [
+            {
+              "id": "es_fomento_de_la_salud_fomento_salud_atenci�n_preventiva",
+              "nombre": "Atenci�n preventiva",
+              "elementosMedibles": [
+                {
+                  "id": "em_fomento_de_la_salud_fomento_salud_atenci�n_preventiva_prevenci�n",
+                  "nombre": "Prevenci�n",
+                  "puntos": [
+                    {
+                      "id": "59",
+                      "numero": 59,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "91",
+                      "numero": 91,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_fomento_de_la_salud_fomento_salud_atenci�n_preventiva_detecci�n",
+                  "nombre": "Detecci�n",
+                  "puntos": [
+                    {
+                      "id": "93",
+                      "numero": 93,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "95",
+                      "numero": 95,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "98",
+                      "numero": 98,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "99",
+                      "numero": 99,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "100",
+                      "numero": 100,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "102",
+                      "numero": 102,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "103",
+                      "numero": 103,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "104",
+                      "numero": 104,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_fomento_de_la_salud_fomento_salud_atenci�n_preventiva_atenci�n_y_cuidado",
+                  "nombre": "Atenci�n y cuidado",
+                  "puntos": [
+                    {
+                      "id": "94",
+                      "numero": 94,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "96",
+                      "numero": 96,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "97",
+                      "numero": 97,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "101",
+                      "numero": 101,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "187",
+                      "numero": 187,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_fomento_de_la_salud_fomento_salud_seguimiento_de_la_salud",
+              "nombre": "Seguimiento de la salud",
+              "elementosMedibles": [
+                {
+                  "id": "em_fomento_de_la_salud_fomento_salud_seguimiento_de_la_salud_ministraci�n_de_medicamento",
+                  "nombre": "Ministraci�n de medicamento",
+                  "puntos": [
+                    {
+                      "id": "105",
+                      "numero": 105,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "106",
+                      "numero": 106,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_fomento_de_la_salud_fomento_salud_seguimiento_de_la_salud_apoyo_terap�utico",
+                  "nombre": "Apoyo terap�utico",
+                  "puntos": [
+                    {
+                      "id": "107",
+                      "numero": 107,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "108",
+                      "numero": 108,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "109",
+                      "numero": 109,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "110",
+                      "numero": 110,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_fomento_de_la_salud_gesti�n",
+          "nombre": "Gesti�n",
+          "elementosEstandar": [
+            {
+              "id": "es_fomento_de_la_salud_gesti�n_mejora_continua",
+              "nombre": "Mejora continua",
+              "elementosMedibles": [
+                {
+                  "id": "em_fomento_de_la_salud_gesti�n_mejora_continua_acciones_correctivas_y_preventivas",
+                  "nombre": "Acciones correctivas y preventivas",
+                  "puntos": [
+                    {
+                      "id": "92",
+                      "numero": 92,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "141",
+                      "numero": 141,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_fomento_de_la_salud_higiene",
+          "nombre": "Higiene",
+          "elementosEstandar": [
+            {
+              "id": "es_fomento_de_la_salud_higiene_saneamiento_de_superficies",
+              "nombre": "Saneamiento de superficies",
+              "elementosMedibles": [
+                {
+                  "id": "em_fomento_de_la_salud_higiene_saneamiento_de_superficies_instalaciones",
+                  "nombre": "Instalaciones",
+                  "puntos": [
+                    {
+                      "id": "111",
+                      "numero": 111,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_fomento_de_la_salud_higiene_saneamiento_de_superficies_recursos",
+                  "nombre": "Recursos",
+                  "puntos": [
+                    {
+                      "id": "158",
+                      "numero": 158,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proc_alimentaci�n",
+      "nombre": "Alimentaci�n",
+      "procesos": [
+        {
+          "id": "pr_alimentaci�n_alimentaci�n",
+          "nombre": "Alimentaci�n",
+          "elementosEstandar": [
+            {
+              "id": "es_alimentaci�n_alimentaci�n_placa",
+              "nombre": "PLACA",
+              "elementosMedibles": [
+                {
+                  "id": "em_alimentaci�n_alimentaci�n_placa_ministraci�n_de_alimentos",
+                  "nombre": "Ministraci�n de alimentos",
+                  "puntos": [
+                    {
+                      "id": "19",
+                      "numero": 19,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "24",
+                      "numero": 24,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_alimentaci�n_alimentaci�n_placa_recepci�n",
+                  "nombre": "Recepci�n",
+                  "puntos": [
+                    {
+                      "id": "23",
+                      "numero": 23,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "130",
+                      "numero": 130,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_alimentaci�n_alimentaci�n_placa_distribuci�n",
+                  "nombre": "Distribuci�n",
+                  "puntos": [
+                    {
+                      "id": "30",
+                      "numero": 30,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "136",
+                      "numero": 136,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_alimentaci�n_alimentaci�n_placa_preparaci�n",
+                  "nombre": "Preparaci�n",
+                  "puntos": [
+                    {
+                      "id": "126",
+                      "numero": 126,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "132",
+                      "numero": 132,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "134",
+                      "numero": 134,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "135",
+                      "numero": 135,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "138",
+                      "numero": 138,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_alimentaci�n_alimentaci�n_placa_planeaci�n",
+                  "nombre": "Planeaci�n",
+                  "puntos": [
+                    {
+                      "id": "129",
+                      "numero": 129,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "184",
+                      "numero": 184,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_alimentaci�n_alimentaci�n_placa_almacenamiento",
+                  "nombre": "Almacenamiento",
+                  "puntos": [
+                    {
+                      "id": "131",
+                      "numero": 131,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "137",
+                      "numero": 137,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_alimentaci�n_alimentaci�n_seguimiento_alimentario",
+              "nombre": "Seguimiento alimentario",
+              "elementosMedibles": [
+                {
+                  "id": "em_alimentaci�n_alimentaci�n_seguimiento_alimentario_medidas_preventivas",
+                  "nombre": "Medidas preventivas",
+                  "puntos": [
+                    {
+                      "id": "22",
+                      "numero": 22,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "31",
+                      "numero": 31,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "127",
+                      "numero": 127,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_alimentaci�n_alimentaci�n_seguimiento_alimentario_historial_y_seguimiento",
+                  "nombre": "Historial y seguimiento",
+                  "puntos": [
+                    {
+                      "id": "90",
+                      "numero": 90,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "114",
+                      "numero": 114,
+                      "descripcion": "",
+                      "nivelRiesgo": "Bajo",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pr_alimentaci�n_higiene",
+          "nombre": "Higiene",
+          "elementosEstandar": [
+            {
+              "id": "es_alimentaci�n_higiene_saneamiento_personal",
+              "nombre": "Saneamiento personal",
+              "elementosMedibles": [
+                {
+                  "id": "em_alimentaci�n_higiene_saneamiento_personal_rutina_de_higiene",
+                  "nombre": "Rutina de higiene",
+                  "puntos": [
+                    {
+                      "id": "128",
+                      "numero": 128,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "133",
+                      "numero": 133,
+                      "descripcion": "",
+                      "nivelRiesgo": "Alto",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "es_alimentaci�n_higiene_saneamiento_de_superficies",
+              "nombre": "Saneamiento de superficies",
+              "elementosMedibles": [
+                {
+                  "id": "em_alimentaci�n_higiene_saneamiento_de_superficies_instalaciones",
+                  "nombre": "Instalaciones",
+                  "puntos": [
+                    {
+                      "id": "139",
+                      "numero": 139,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                },
+                {
+                  "id": "em_alimentaci�n_higiene_saneamiento_de_superficies_recursos",
+                  "nombre": "Recursos",
+                  "puntos": [
+                    {
+                      "id": "164",
+                      "numero": 164,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    },
+                    {
+                      "id": "213",
+                      "numero": 213,
+                      "descripcion": "",
+                      "nivelRiesgo": "Medio",
+                      "plantillaDetalle": "",
+                      "plantillaAccion": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "guarderias": [
+    {
+      "guarderiaNumero": "U-0019",
+      "guarderiaNombre": "Mi Escuelita Montessori",
+      "razonSocial": "Servicios Preescolares S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Maria del Rosario Parra Calderon"
+    },
+    {
+      "guarderiaNumero": "U-0125",
+      "guarderiaNombre": "Centro de Educacion Preescolar El Caracol",
+      "razonSocial": "Centro de Educacion Preescolar El Caracol S.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Erika Mendez Rodriguez"
+    },
+    {
+      "guarderiaNumero": "U-0156",
+      "guarderiaNombre": "Guarder�a Villa Geppetto",
+      "razonSocial": "Estancia Infantil Rodriguez S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Cardenas Gaxiola Lidia Lorena"
+    },
+    {
+      "guarderiaNumero": "U-0157",
+      "guarderiaNombre": "Centro Infantil El Florido",
+      "razonSocial": "Centro Infantil El Florido, S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Morayma Xuxdely Lizarraga Villase�or"
+    },
+    {
+      "guarderiaNumero": "U-0158",
+      "guarderiaNombre": "Peque�o Mundo Montessori",
+      "razonSocial": "Estancia Infantil Peque�o Mundo Montessori S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Adriana Sandoval Felix"
+    },
+    {
+      "guarderiaNumero": "U-0186",
+      "guarderiaNombre": "Los Principitos",
+      "razonSocial": "Los Principitos A.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Maria Fernanda Quevedo Lira"
+    },
+    {
+      "guarderiaNumero": "U-0202",
+      "guarderiaNombre": "Guarder�a Infantil del Parque Industrial, A.C.",
+      "razonSocial": "Guarder�a Infantil del Parque Industrial, A.C. ",
+      "ciudadEstado": "San Luis R�o Colorado",
+      "directora": "Florinda urias"
+    },
+    {
+      "guarderiaNumero": "U-0241",
+      "guarderiaNombre": "Vida, Salud y Amor",
+      "razonSocial": "Vida, Salud y Amor, S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Consuelo Genovese Morones"
+    },
+    {
+      "guarderiaNumero": "U-0251",
+      "guarderiaNombre": "El Camino al Arca",
+      "razonSocial": "El Camino al Arca, S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Laura Alicia Ordaz Ramos"
+    },
+    {
+      "guarderiaNumero": "U-0252",
+      "guarderiaNombre": "Mi Puerto Alegr�a",
+      "razonSocial": "Mi Puerto Alegr�a, S.C.",
+      "ciudadEstado": "Ensenada",
+      "directora": "Zareth Betancourt Fernandez"
+    },
+    {
+      "guarderiaNumero": "U-0266",
+      "guarderiaNombre": "Mi Peque�o Amigo",
+      "razonSocial": "Mi Peque�o Amigo, A.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Mar�a Maricela Espinoza Medina"
+    },
+    {
+      "guarderiaNumero": "U-0281",
+      "guarderiaNombre": "Estancia Infantil Misi�n",
+      "razonSocial": "Estancia Infantil Misi�n, A.C.",
+      "ciudadEstado": "Ensenada",
+      "directora": "Elia Higuera Zepeda"
+    },
+    {
+      "guarderiaNumero": "U-0309",
+      "guarderiaNombre": "Consorcio Buma",
+      "razonSocial": "Consorcio Buma, S.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Candida Lucero L�pez M�ndez"
+    },
+    {
+      "guarderiaNumero": "U-0310",
+      "guarderiaNombre": "Consorcio Buma",
+      "razonSocial": "Consorcio Buma, S.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Iliana Azucena Vargas Angulo"
+    },
+    {
+      "guarderiaNumero": "U-0315",
+      "guarderiaNombre": "La Magia de Disney",
+      "razonSocial": "Centro de Desarrollo Vecinal Comunitario, S.C.",
+      "ciudadEstado": "Ensenada",
+      "directora": "Tania Pack Ortega"
+    },
+    {
+      "guarderiaNumero": "U-0318",
+      "guarderiaNombre": "Guarderia Casa del Ni�o",
+      "razonSocial": "Guarderia Casa del Ni�o, S.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Maria Alejandra Moya Villa"
+    },
+    {
+      "guarderiaNumero": "U-0374",
+      "guarderiaNombre": "Guarder�a San Fernando Col. Cacho",
+      "razonSocial": "Colegio de Ense�anza Personalizada Pierre Faure S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Estela Perez Perez"
+    },
+    {
+      "guarderiaNumero": "U-0375",
+      "guarderiaNombre": "Estancia Infantil Ivetania",
+      "razonSocial": "Estancia Infantil Ivetania, S.C.",
+      "ciudadEstado": "San Luis R�o Colorado",
+      "directora": "Adalia Yamileth Guerrero Gastelum"
+    },
+    {
+      "guarderiaNumero": "U-0376",
+      "guarderiaNombre": "Espacios Infantiles",
+      "razonSocial": "Espacios Infantiles, S.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Erika Guerrero Delgadillo"
+    },
+    {
+      "guarderiaNumero": "U-0377",
+      "guarderiaNombre": "Guarderia Infantil Piccolino",
+      "razonSocial": "Guarderia Infantil Piccolino, S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Larissa Roc�o Flores Sanchez"
+    },
+    {
+      "guarderiaNumero": "U-0380",
+      "guarderiaNombre": "Estancia Alegre",
+      "razonSocial": "Estancia Alegre, A.C.",
+      "ciudadEstado": "Tecate",
+      "directora": "Martha Elena Adame Rodr�guez"
+    },
+    {
+      "guarderiaNumero": "U-0674",
+      "guarderiaNombre": "Guarderia Villa Alegre Infantil",
+      "razonSocial": "Guarderia Villa Alegre Infantil, S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Adriana Leticia Lascano Fuerte "
+    },
+    {
+      "guarderiaNumero": "U-0676",
+      "guarderiaNombre": "Villa Infantil de Rosarito",
+      "razonSocial": "Servicios Infantiles de Rosarito S.C.",
+      "ciudadEstado": "Playas de Rosarito",
+      "directora": "Mar�a Guadalupe Lemus Jim�nez"
+    },
+    {
+      "guarderiaNumero": "U-0677",
+      "guarderiaNombre": "Guarder�a Los Pinos",
+      "razonSocial": "Vega Krumm y Asociados S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Karla Fernanda de la Pe�a Russo"
+    },
+    {
+      "guarderiaNumero": "U-0679",
+      "guarderiaNombre": "Guarder�a Infantil Dimely, S.C.",
+      "razonSocial": "Guarder�a Infantil Dimely, S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Brenda Yajaira Barr�n Gonzalez"
+    },
+    {
+      "guarderiaNumero": "U-0753",
+      "guarderiaNombre": "Mundo Magico de Tijuana",
+      "razonSocial": "Mundo Magico de Tijuana, S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Margarita Cisneros Lemus"
+    },
+    {
+      "guarderiaNumero": "U-0754",
+      "guarderiaNombre": "Casa de los Peque�os Amigos",
+      "razonSocial": "Casa de los Peque�os Amigos Estancia Infantil, S.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Maritza Sanchez de la Garza"
+    },
+    {
+      "guarderiaNumero": "U-0874",
+      "guarderiaNombre": "Guarderia Mi Casita",
+      "razonSocial": "Guarderia Mi Casita S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Mariana Edith Villarruel Cere�o"
+    },
+    {
+      "guarderiaNumero": "U-1192",
+      "guarderiaNombre": "Guarder�a San Fernando Zona Rio",
+      "razonSocial": "C E Baja California Heroica, S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Cynthia Janneth Morales Guzman"
+    },
+    {
+      "guarderiaNumero": "U-1195",
+      "guarderiaNombre": "Guarder�a Calor de Hogar",
+      "razonSocial": "Estancias Infantiles de Baja California A.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Roxana Guadalupe Reyes Rangel"
+    },
+    {
+      "guarderiaNumero": "U-1253",
+      "guarderiaNombre": "Estancia Infantil Mi Pequeno Caillou",
+      "razonSocial": "Estancia Infantil Mi Pequeno Caillou, A.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Migdalia Rebollar Miranda"
+    },
+    {
+      "guarderiaNumero": "U-1271",
+      "guarderiaNombre": "Guarder�a la Mesa de Ense�anza",
+      "razonSocial": "Educacion La Presa, S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Itzel Frimee Nicasio Lopez"
+    },
+    {
+      "guarderiaNumero": "U-1281",
+      "guarderiaNombre": "Villa Infantil las Arboledas",
+      "razonSocial": "Promocion Educativa S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Herminia Espino Vargas"
+    },
+    {
+      "guarderiaNumero": "U-1288",
+      "guarderiaNombre": "Estancia Infantil Chiquitines",
+      "razonSocial": "Desarrollo Activo Farmaceutico, S.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Rosalia Magallanes Trujillo"
+    },
+    {
+      "guarderiaNumero": "U-1295",
+      "guarderiaNombre": "Guarder�as Calor de Hogar P�rticos del Valle",
+      "razonSocial": "Estancias Infantiles de Baja California, A.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Claudia Fernanda S�nchez Barro"
+    },
+    {
+      "guarderiaNumero": "U-1306",
+      "guarderiaNombre": "Atenci�n Integral del Desarrollo Infantil",
+      "razonSocial": "Atenci�n Integral del Desarrollo Infantil, S.C.",
+      "ciudadEstado": "Playas de Rosarito",
+      "directora": "Nancy Nayeli Trujillo Chavez"
+    },
+    {
+      "guarderiaNumero": "U-1345",
+      "guarderiaNombre": "Estancias Infantiles de Baja California",
+      "razonSocial": "Estancias Infantiles de Baja California A.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Leticia Isabel Casta�eda Mu�oz"
+    },
+    {
+      "guarderiaNumero": "U-1365",
+      "guarderiaNombre": "Cuidado y Desarrollo Infantil Diana",
+      "razonSocial": "Cuidado y Desarrollo Infantil, A.C.",
+      "ciudadEstado": "Ensenada",
+      "directora": "Marisol L�pez Favela"
+    },
+    {
+      "guarderiaNumero": "U-1367",
+      "guarderiaNombre": "Estancias Infantiles de Baja California",
+      "razonSocial": "Estancias Infantiles de Baja California, A.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Vianey Pe�a Cedano"
+    },
+    {
+      "guarderiaNumero": "U-1448",
+      "guarderiaNombre": "Sue�os y Sonrisas",
+      "razonSocial": "Sue�os y Sonrisas, S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Ana Marlene Sandoval Magall�n"
+    },
+    {
+      "guarderiaNumero": "U-1498",
+      "guarderiaNombre": "Estancias Infantiles de Baja California",
+      "razonSocial": "Estancias Infantiles de Baja California, A.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Cecilia Abigail Fragoso Garcia"
+    },
+    {
+      "guarderiaNumero": "U-1613",
+      "guarderiaNombre": "El Jardin de los Sue�os",
+      "razonSocial": "Cuidado Educativo y Saludable Mxlbc, S. de R.L. de C.V.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Kenia Guadalupe Lizarraga S�nchez"
+    },
+    {
+      "guarderiaNumero": "U-1646",
+      "guarderiaNombre": "Operadora de Guarderias Faspi S.A. de C.V.",
+      "razonSocial": "Operadora de Guarderias Faspi S.A. de C.V.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Maria Felix Santos Rosales"
+    },
+    {
+      "guarderiaNumero": "U-1711",
+      "guarderiaNombre": "Centro de Educacion Preescolar El Caracol S.C.",
+      "razonSocial": "Centro de Educacion Preescolar El Caracol S.C.",
+      "ciudadEstado": "Ensenada",
+      "directora": "Bertha Patricia Villavicencio Rodriguez"
+    },
+    {
+      "guarderiaNumero": "U-1712",
+      "guarderiaNombre": "Guarder�a El Caracol Tijuana",
+      "razonSocial": "Centro de Educacion Preescolar El Caracol S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Iris Sarahi Duran Pe�uelas"
+    },
+    {
+      "guarderiaNumero": "U-1747",
+      "guarderiaNombre": "Cent. Educ. Preesc. El Caracol, S.C. / En Particip Conjun con los Principitos, A.C.",
+      "razonSocial": "Centro de Educacion Preescolar El Caracol S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Berenice Lara P�rez"
+    },
+    {
+      "guarderiaNumero": "Y-0015",
+      "guarderiaNombre": "Colegio Integral",
+      "razonSocial": "Colegio Integral, S.C.",
+      "ciudadEstado": "Tijuana",
+      "directora": "Silvia Duarte Lizarraga"
+    },
+    {
+      "guarderiaNumero": "Y-0036",
+      "guarderiaNombre": "Estancia Infantil Bambinos",
+      "razonSocial": "Desarrollo Activo Farmac�utico, S.C.",
+      "ciudadEstado": "Mexicali",
+      "directora": "Gloria Alicia Davalos Salazar"
+    },
+    {
+      "guarderiaNumero": "G-0001M",
+      "guarderiaNombre": "Guarder�a Ordinaria de Mexicali",
+      "razonSocial": "Guarder�a Ordinaria de Mexicali",
+      "ciudadEstado": "Mexicali",
+      "directora": "Brenda Fabiola Padilla Tello"
+    },
+    {
+      "guarderiaNumero": "G-0001E",
+      "guarderiaNombre": "Guarder�a Ordinaria de Ensenada",
+      "razonSocial": "Guarder�a Ordinaria de Ensenada",
+      "ciudadEstado": "Ensenada",
+      "directora": "Evelyn Anahi Dominguez Bernardino"
+    },
+    {
+      "guarderiaNumero": "G-0001T",
+      "guarderiaNombre": "Guarder�a Ordinaria de Tijuana",
+      "razonSocial": "Guarder�a Ordinaria de Tijuana",
+      "ciudadEstado": "Tijuana",
+      "directora": "Alejandra Adriana Agosto Gomez"
+    }
+  ],
+  "asignaciones": [
+    {
+      "coordinadora": "Analilia Garcia Pereda",
+      "guarderiaNumero": "U-0019"
+    },
+    {
+      "coordinadora": "Consuelo Sandoval Marquez",
+      "guarderiaNumero": "U-0125"
+    },
+    {
+      "coordinadora": "Elivier Kristhina Olivas Verduzco",
+      "guarderiaNumero": "U-0156"
+    },
+    {
+      "coordinadora": "Jessica Cartas Sanchez",
+      "guarderiaNumero": "U-0157"
+    },
+    {
+      "coordinadora": "Analilia Garcia Pereda",
+      "guarderiaNumero": "U-0158"
+    },
+    {
+      "coordinadora": "Consuelo Sandoval Marquez",
+      "guarderiaNumero": "U-0186"
+    },
+    {
+      "coordinadora": "Ana Lizeth Torres Lopez",
+      "guarderiaNumero": "U-0202"
+    },
+    {
+      "coordinadora": "Jessica Cartas Sanchez",
+      "guarderiaNumero": "U-0241"
+    },
+    {
+      "coordinadora": "Analilia Garcia Pereda",
+      "guarderiaNumero": "U-0251"
+    },
+    {
+      "coordinadora": "Ana Lilia Estrada Robles",
+      "guarderiaNumero": "U-0252"
+    },
+    {
+      "coordinadora": "Ana Lizeth Torres Lopez",
+      "guarderiaNumero": "U-0266"
+    },
+    {
+      "coordinadora": "Ana Lilia Estrada Robles",
+      "guarderiaNumero": "U-0281"
+    },
+    {
+      "coordinadora": "Consuelo Sandoval Marquez",
+      "guarderiaNumero": "U-0309"
+    },
+    {
+      "coordinadora": "Karla Mendoza Cese�a",
+      "guarderiaNumero": "U-0310"
+    },
+    {
+      "coordinadora": "Ana Lilia Estrada Robles",
+      "guarderiaNumero": "U-0315"
+    },
+    {
+      "coordinadora": "Karla Mendoza Cese�a",
+      "guarderiaNumero": "U-0318"
+    },
+    {
+      "coordinadora": "Elizabeth Vazquez Luna",
+      "guarderiaNumero": "U-0374"
+    },
+    {
+      "coordinadora": "Karla Mendoza Cese�a",
+      "guarderiaNumero": "U-0375"
+    },
+    {
+      "coordinadora": "Consuelo Sandoval Marquez",
+      "guarderiaNumero": "U-0376"
+    },
+    {
+      "coordinadora": "Analilia Garcia Pereda",
+      "guarderiaNumero": "U-0377"
+    },
+    {
+      "coordinadora": "Analilia Garcia Pereda",
+      "guarderiaNumero": "U-0380"
+    },
+    {
+      "coordinadora": "Librada N��ez Adame",
+      "guarderiaNumero": "U-0674"
+    },
+    {
+      "coordinadora": "Elivier Kristhina Olivas Verduzco",
+      "guarderiaNumero": "U-0676"
+    },
+    {
+      "coordinadora": "Jessica Cartas Sanchez",
+      "guarderiaNumero": "U-0677"
+    },
+    {
+      "coordinadora": "Librada N��ez Adame",
+      "guarderiaNumero": "U-0679"
+    },
+    {
+      "coordinadora": "Elizabeth Vazquez Luna",
+      "guarderiaNumero": "U-0753"
+    },
+    {
+      "coordinadora": "Karla Mendoza Cese�a",
+      "guarderiaNumero": "U-0754"
+    },
+    {
+      "coordinadora": "Elizabeth Vazquez Luna",
+      "guarderiaNumero": "U-0874"
+    },
+    {
+      "coordinadora": "Analilia Garcia Pereda",
+      "guarderiaNumero": "U-1192"
+    },
+    {
+      "coordinadora": "Jessica Cartas Sanchez",
+      "guarderiaNumero": "U-1195"
+    },
+    {
+      "coordinadora": "Librada N��ez Adame",
+      "guarderiaNumero": "U-1253"
+    },
+    {
+      "coordinadora": "Elizabeth Vazquez Luna",
+      "guarderiaNumero": "U-1271"
+    },
+    {
+      "coordinadora": "Librada N��ez Adame",
+      "guarderiaNumero": "U-1281"
+    },
+    {
+      "coordinadora": "Consuelo Sandoval Marquez",
+      "guarderiaNumero": "U-1288"
+    },
+    {
+      "coordinadora": "Karla Mendoza Cese�a",
+      "guarderiaNumero": "U-1295"
+    },
+    {
+      "coordinadora": "Elivier Kristhina Olivas Verduzco",
+      "guarderiaNumero": "U-1306"
+    },
+    {
+      "coordinadora": "Librada N��ez Adame",
+      "guarderiaNumero": "U-1345"
+    },
+    {
+      "coordinadora": "Ana Lilia Estrada Robles",
+      "guarderiaNumero": "U-1365"
+    },
+    {
+      "coordinadora": "Consuelo Sandoval Marquez",
+      "guarderiaNumero": "U-1367"
+    },
+    {
+      "coordinadora": "Jessica Cartas Sanchez",
+      "guarderiaNumero": "U-1448"
+    },
+    {
+      "coordinadora": "Ana Lizeth Torres Lopez",
+      "guarderiaNumero": "U-1498"
+    },
+    {
+      "coordinadora": "Ana Lizeth Torres Lopez",
+      "guarderiaNumero": "U-1613"
+    },
+    {
+      "coordinadora": "Librada N��ez Adame",
+      "guarderiaNumero": "U-1646"
+    },
+    {
+      "coordinadora": "Ana Lilia Estrada Robles",
+      "guarderiaNumero": "U-1711"
+    },
+    {
+      "coordinadora": "Elizabeth Vazquez Luna",
+      "guarderiaNumero": "U-1712"
+    },
+    {
+      "coordinadora": "Elizabeth Vazquez Luna",
+      "guarderiaNumero": "U-1747"
+    },
+    {
+      "coordinadora": "Elivier Kristhina Olivas Verduzco",
+      "guarderiaNumero": "Y-0015"
+    },
+    {
+      "coordinadora": "Karla Mendoza Cese�a",
+      "guarderiaNumero": "Y-0036"
+    },
+    {
+      "coordinadora": "Ana Lizeth Torres Lopez",
+      "guarderiaNumero": "G-0001M"
+    },
+    {
+      "coordinadora": "Ana Lilia Estrada Robles",
+      "guarderiaNumero": "G-0001E"
+    },
+    {
+      "coordinadora": "Jessica Cartas Sanchez",
+      "guarderiaNumero": "G-0001T"
+    }
+  ]
+}
