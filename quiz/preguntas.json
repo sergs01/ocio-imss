@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "pregunta": "¿Cuántos días hábiles usa SIAG para respuesta?",
+    "opciones": ["3", "5", "7", "10"],
+    "correcta": 1,
+    "categoria": "General",
+    "dificultad": "Media"
+  },
+  {
+    "id": "q2",
+    "pregunta": "¿Los 10 días para notificación se cuentan como…?",
+    "opciones": ["Hábiles", "Naturales", "Mixtos", "Depende"],
+    "correcta": 1,
+    "categoria": "General",
+    "dificultad": "Fácil"
+  }
+]
