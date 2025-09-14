@@ -28,7 +28,7 @@
                     {
                       "id": "2",
                       "numero": 2,
-                      "descripcion": "",
+                      "descripcion": "prueba",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
