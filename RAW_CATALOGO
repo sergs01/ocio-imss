@@ -52,7 +52,7 @@
                     {
                       "id": "123",
                       "numero": 123,
-                      "descripcion": "En el local de recepcion y control de acceso se encuentra, en un lugar visible para las personas usuarias, la siguiente informacion actualizada y legible:                                      \n�Esquema y numero de la unidad.(prestacion directa)\n�Nombre y numero de la unidad.(prestacion indirecta)\n� Domicilio, telefono y horario de atencion.\n� Nombre de la Directora de la unidad, (En el caso de las guarderias de prestacion directa, de la o del Administrador, de la Educadora, de la Tecnico en Puericultura, de la Nutricionista Dietista y de la o del Medico General).\n� Nombre de la persona Titular del Departamento de Guarderias y de la JSSTPES (este ultimo para guarderias de prestacion directa), telefono y extension respectivamente.\n� Direccion del portal de guarderias del IMSS:\nhttp://www.imss.gob.mx/servicios/guarderias\n� Correo electronico: guarderias@imss.gob.mx\n� Telefonos de emergencia.\n� Licencia de funcionamiento.\n� Autorizacion de proteccion civil de la localidad para operar en la unidad.\n� Croquis con senalizacion de medidas de seguridad de la unidad.\n� CVMS, version Portal IMSS. (para prestacion Directa)\n� Pizarra en la que se muestre la cantidad de ninas y ninos presentes en la guarderia, en el dia. (prestacion directa).\n� Buzon de quejas(prestacion indirecta)",
+                      "descripcion": "En el local de recepcion y control de acceso se encuentra, en un lugar visible para las personas usuarias, la siguiente informacion actualizada y legible:                                      \nEsquema y numero de la unidad.(prestacion directa)\nNombre y numero de la unidad.(prestacion indirecta)\nDomicilio, telefono y horario de atencion.\nNombre de la Directora de la unidad, (En el caso de las guarderias de prestacion directa, de la o del Administrador, de la Educadora, de la Tecnico en Puericultura, de la Nutricionista Dietista y de la o del Medico General).\nNombre de la persona Titular del Departamento de Guarderias y de la JSSTPES (este ultimo para guarderias de prestacion directa), telefono y extension respectivamente.\nDireccion del portal de guarderias del IMSS:\nhttp://www.imss.gob.mx/servicios/guarderias\nCorreo electronico: guarderias@imss.gob.mx\nTelefonos de emergencia.\nLicencia de funcionamiento.\nAutorizacion de proteccion civil de la localidad para operar en la unidad.\nCroquis con senalizacion de medidas de seguridad de la unidad.\nCVMS, version Portal IMSS. (para prestacion Directa)\nPizarra en la que se muestre la cantidad de ninas y ninos presentes en la guarderia, en el dia. (prestacion directa).\nBuzon de quejas(prestacion indirecta)",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -76,7 +76,7 @@
                     {
                       "id": "153",
                       "numero": 153,
-                      "descripcion": "Para guarderias de prestacion directa, la Directora y la o el Administrador  controlan y resguardan un juego de llaves de la guarderia, respectivamente. Si se considera factible, el elemento de seguridad tendra unicamente el duplicado de las llaves de las puertas de acceso a la guarderia.\n\nPara guarderias de prestacion indirecta, la Directora controla y resguarda permanentemente un juego de llaves de la guarderia.",
+                      "descripcion": "Para guarderias de prestacion directa, la Directora y la o el Administrador  controlan y resguardan un juego de llaves de la guarderia, respectivamente. Si se considera factible, el elemento de seguridad tendra unicamente el duplicado de las llaves de las puertas de acceso a la guarderia.\nPara guarderias de prestacion indirecta, la Directora controla y resguarda permanentemente un juego de llaves de la guarderia.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -718,7 +718,7 @@
                     {
                       "id": "89",
                       "numero": 89,
-                      "descripcion": "La documentacion que conforma el Expediente del Nino esta completa y actualizada conforme a la \"Relacion de documentos que integra el expediente del nino\" y  el nombre al que pertenece la CURP coincide con el nombre la �Cedula de identificacion de la o el nino.\n",
+                      "descripcion": "La documentacion que conforma el Expediente del Nino esta completa y actualizada conforme a la \"Relacion de documentos que integra el expediente del nino\" y  el nombre al que pertenece la CURP coincide con el nombre la �Cedula de identificacion de la o el nino.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1698,7 +1698,7 @@
                     {
                       "id": "140",
                       "numero": 140,
-                      "descripcion": "Se encuentran en el \"Expediente pedagogico del nino\", la Evaluacion inicial y en los casos que aplique a partir de la fecha de ingreso a la guarderia:\n� La Evaluacion intermedia\n� La Evaluacion para cambio de sala o en su caso, para cambio de sala por madurez\n� Revaloraciones cuando se identifique a quienes se les aplico la Evaluacion para el cambio de sala y no lograron el 75% de las conductas esperadas para su edad\n� El Programa de estimulacion especifico de los ninos que no lograron el 75% de las conductas esperadas en alguna area del desarrollo en la evaluacion para cambio de sala o el 55% en la evaluacion intermedia",
+                      "descripcion": "Se encuentran en el \"Expediente pedagogico del nino\", la Evaluacion inicial y en los casos que aplique a partir de la fecha de ingreso a la guarderia:\nLa Evaluacion intermedia\nLa Evaluacion para cambio de sala o en su caso, para cambio de sala por madurez\nRevaloraciones cuando se identifique a quienes se les aplico la Evaluacion para el cambio de sala y no lograron el 75% de las conductas esperadas para su edad\nEl Programa de estimulacion especifico de los ninos que no lograron el 75% de las conductas esperadas en alguna area del desarrollo en la evaluacion para cambio de sala o el 55% en la evaluacion intermedia",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1796,7 +1796,7 @@
                     {
                       "id": "148",
                       "numero": 148,
-                      "descripcion": "Se considera lo siguiente para el uso de la bacinica:\n� Verifica que la bacinica este limpia, seca y en buenas condiciones antes de usarla.\n� Verifica que los ninos esten sentados en las bacinicas por un lapso maximo de cinco a siete minutos.\n� Se colocan las bacinicas separadas una de otra para que los ninos no corran riesgo alguno.",
+                      "descripcion": "Se considera lo siguiente para el uso de la bacinica:\nVerifica que la bacinica este limpia, seca y en buenas condiciones antes de usarla.\nVerifica que los ninos esten sentados en las bacinicas por un lapso maximo de cinco a siete minutos.\nSe colocan las bacinicas separadas una de otra para que los ninos no corran riesgo alguno.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
