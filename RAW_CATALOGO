@@ -44,7 +44,7 @@
                     {
                       "id": "28",
                       "numero": 28,
-                      "descripcion": "Las sillas porta bebe o sillas altas infantiles (tipo periquera) estan alejadas de barandales, puertas, muebles de guarda, repisas, botes de basura, contactos, cables electricos o cualquier objeto que pueda poner en riesgo la integridad de los ni�os durante la ministracion de alimentos.",
+                      "descripcion": "Las sillas porta bebe o sillas altas infantiles (tipo periquera) estan alejadas de barandales, puertas, muebles de guarda, repisas, botes de basura, contactos, cables electricos o cualquier objeto que pueda poner en riesgo la integridad de los ninos durante la ministracion de alimentos.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -52,7 +52,7 @@
                     {
                       "id": "123",
                       "numero": 123,
-                      "descripcion": "En el local de recepcion y control de acceso se encuentra, en un lugar visible para las personas usuarias, la siguiente informacion actualizada y legible:                                      \n�Esquema y numero de la unidad.(prestacion directa)\n�Nombre y numero de la unidad.(prestacion indirecta)\n� Domicilio, telefono y horario de atencion.\n� Nombre de la Directora de la unidad, (En el caso de las guarderias de prestacion directa, de la o del Administrador, de la Educadora, de la Tecnico en Puericultura, de la Nutricionista Dietista y de la o del Medico General).\n� Nombre de la persona Titular del Departamento de Guarderias y de la JSSTPES (este ultimo para guarderias de prestacion directa), telefono y extension respectivamente.\n� Direccion del portal de guarderias del IMSS:\nhttp://www.imss.gob.mx/servicios/guarderias\n� Correo electronico: guarderias@imss.gob.mx\n� Telefonos de emergencia.\n� Licencia de funcionamiento.\n� Autorizacion de proteccion civil de la localidad para operar en la unidad.\n� Croquis con se�alizacion de medidas de seguridad de la unidad.\n� CVMS, version Portal IMSS. (para prestacion Directa)\n� Pizarra en la que se muestre la cantidad de ni�as y ni�os presentes en la guarderia, en el dia. (prestacion directa).\n� Buzon de quejas(prestacion indirecta)",
+                      "descripcion": "En el local de recepcion y control de acceso se encuentra, en un lugar visible para las personas usuarias, la siguiente informacion actualizada y legible:                                      \n�Esquema y numero de la unidad.(prestacion directa)\n�Nombre y numero de la unidad.(prestacion indirecta)\n� Domicilio, telefono y horario de atencion.\n� Nombre de la Directora de la unidad, (En el caso de las guarderias de prestacion directa, de la o del Administrador, de la Educadora, de la Tecnico en Puericultura, de la Nutricionista Dietista y de la o del Medico General).\n� Nombre de la persona Titular del Departamento de Guarderias y de la JSSTPES (este ultimo para guarderias de prestacion directa), telefono y extension respectivamente.\n� Direccion del portal de guarderias del IMSS:\nhttp://www.imss.gob.mx/servicios/guarderias\n� Correo electronico: guarderias@imss.gob.mx\n� Telefonos de emergencia.\n� Licencia de funcionamiento.\n� Autorizacion de proteccion civil de la localidad para operar en la unidad.\n� Croquis con senalizacion de medidas de seguridad de la unidad.\n� CVMS, version Portal IMSS. (para prestacion Directa)\n� Pizarra en la que se muestre la cantidad de ninas y ninos presentes en la guarderia, en el dia. (prestacion directa).\n� Buzon de quejas(prestacion indirecta)",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -60,7 +60,7 @@
                     {
                       "id": "151",
                       "numero": 151,
-                      "descripcion": "Los extintores cuentan con carga y mantenimiento vigentes, realizados por empresa especializada, y estan debidamente etiquetados con la perforacion que indica el mes y el a�o en que se realizo el servicio. Se encuentran ubicados en lugares visibles, accesibles, libres de obstaculos y, en caso de estar en exteriores, protegidos contra la intemperie.",
+                      "descripcion": "Los extintores cuentan con carga y mantenimiento vigentes, realizados por empresa especializada, y estan debidamente etiquetados con la perforacion que indica el mes y el ano en que se realizo el servicio. Se encuentran ubicados en lugares visibles, accesibles, libres de obstaculos y, en caso de estar en exteriores, protegidos contra la intemperie.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -68,7 +68,7 @@
                     {
                       "id": "152",
                       "numero": 152,
-                      "descripcion": "Los accesos a los locales que no forman parte de la atencion directa a las y los ni�os estan restringidos e identificados (se�alizados), como areas de �acceso restringido a ni�as y ni�os� y permanecen cerrados, de ser posible con llave.",
+                      "descripcion": "Los accesos a los locales que no forman parte de la atencion directa a las y los ninos estan restringidos e identificados (senalizados), como areas de �acceso restringido a ninas y ninos� y permanecen cerrados, de ser posible con llave.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -92,7 +92,7 @@
                     {
                       "id": "172",
                       "numero": 172,
-                      "descripcion": "Se cuenta con evidencia de la aplicacion de retardante al fuego a los materiales de la infraestructura y mobiliario fabricados en madera, con una vigencia que no exceda dos a�os o en su defecto el tiempo que especifique el fabricante.",
+                      "descripcion": "Se cuenta con evidencia de la aplicacion de retardante al fuego a los materiales de la infraestructura y mobiliario fabricados en madera, con una vigencia que no exceda dos anos o en su defecto el tiempo que especifique el fabricante.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -100,7 +100,7 @@
                     {
                       "id": "173",
                       "numero": 173,
-                      "descripcion": "Los vidrios y espejos estan recubiertos de pelicula de proteccion anti estillante o pelicula de seguridad para dificultar su fragmentacion, y no estan rotos, perforados y/o estrellados, ni representan un riesgo para la seguridad de los ni�os.",
+                      "descripcion": "Los vidrios y espejos estan recubiertos de pelicula de proteccion anti estillante o pelicula de seguridad para dificultar su fragmentacion, y no estan rotos, perforados y/o estrellados, ni representan un riesgo para la seguridad de los ninos.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -108,7 +108,7 @@
                     {
                       "id": "210",
                       "numero": 210,
-                      "descripcion": "Se cuenta con sistema de circuito cerrado de television (SCCTV) con capacidad para almacenar el video generado por las camaras, al menos durante el horario de servicio; los DVR o NVR cuentan con capacidad para almacenar 24 horas continuas de grabacion por 30 dias naturales y las camaras estan enfocadas para captar las actividades de ni�as y ni�os.",
+                      "descripcion": "Se cuenta con sistema de circuito cerrado de television (SCCTV) con capacidad para almacenar el video generado por las camaras, al menos durante el horario de servicio; los DVR o NVR cuentan con capacidad para almacenar 24 horas continuas de grabacion por 30 dias naturales y las camaras estan enfocadas para captar las actividades de ninas y ninos.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -116,7 +116,7 @@
                     {
                       "id": "214",
                       "numero": 214,
-                      "descripcion": "El sistema de alarma cuenta con panel de control, bateria de respaldo, se�al de alerta estroboscopica y auditiva, asi como estacion manual o boton de panico.",
+                      "descripcion": "El sistema de alarma cuenta con panel de control, bateria de respaldo, senal de alerta estroboscopica y auditiva, asi como estacion manual o boton de panico.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -140,7 +140,7 @@
                     {
                       "id": "218",
                       "numero": 218,
-                      "descripcion": "Las rutas de evacuacion y los puntos de reunion se encuentran debidamente se�alizados y corresponden a cada espacio de la guarderia.",
+                      "descripcion": "Las rutas de evacuacion y los puntos de reunion se encuentran debidamente senalizados y corresponden a cada espacio de la guarderia.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -156,7 +156,7 @@
                     {
                       "id": "220",
                       "numero": 220,
-                      "descripcion": "Se acredita documentalmente la realizacion de cuando menos un simulacro al a�o con evacuacion al exterior del inmueble y con la  coordinacion de las autoridades locales de proteccion civil. Para ello, la guarderia debe acreditar documentalmente la participacion de dicha autoridad o en su defecto contar con la evidencia de la invitacion realizada, asi como la aprobacion por escrito de los padres de las ni�as y ni�os para participar de forma voluntaria en dicho ejercicio.",
+                      "descripcion": "Se acredita documentalmente la realizacion de cuando menos un simulacro al ano con evacuacion al exterior del inmueble y con la  coordinacion de las autoridades locales de proteccion civil. Para ello, la guarderia debe acreditar documentalmente la participacion de dicha autoridad o en su defecto contar con la evidencia de la invitacion realizada, asi como la aprobacion por escrito de los padres de las ninas y ninos para participar de forma voluntaria en dicho ejercicio.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -164,7 +164,7 @@
                     {
                       "id": "221",
                       "numero": 221,
-                      "descripcion": "De la evidencia de los simulacros se observa que los ni�os evacuan a los puntos de reunion o se repliegan a las zonas de menor riesgo de la guarderia.",
+                      "descripcion": "De la evidencia de los simulacros se observa que los ninos evacuan a los puntos de reunion o se repliegan a las zonas de menor riesgo de la guarderia.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -180,7 +180,7 @@
                     {
                       "id": "223",
                       "numero": 223,
-                      "descripcion": "La guarderia cuenta con detectores de humo en todos los locales y pasillos cerrados (excepto en cocina, laboratorio de leches, sanitarios, control de esfinteres, septico y ba�o de artesa, en su caso, los pasillos abiertos).\n\nAdicionalmente, para guarderias de prestacion directa, se cuenta con evidencia documental del mantenimiento de los detectores de humo.",
+                      "descripcion": "La guarderia cuenta con detectores de humo en todos los locales y pasillos cerrados (excepto en cocina, laboratorio de leches, sanitarios, control de esfinteres, septico y bano de artesa, en su caso, los pasillos abiertos).\n\nAdicionalmente, para guarderias de prestacion directa, se cuenta con evidencia documental del mantenimiento de los detectores de humo.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -204,7 +204,7 @@
                     {
                       "id": "227",
                       "numero": 227,
-                      "descripcion": "La vigencia maxima del Programa Interno de Proteccion Civil (PIPC) sera de un a�o o conforme a la normatividad local aplicable en la materia.",
+                      "descripcion": "La vigencia maxima del Programa Interno de Proteccion Civil (PIPC) sera de un ano o conforme a la normatividad local aplicable en la materia.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -220,7 +220,7 @@
                     {
                       "id": "229",
                       "numero": 229,
-                      "descripcion": "Las guarderias deben contar con los siguientes documentos vigentes:\n\n1. Constancia de seguridad estructural. Emitido por un DRO y vigencia de cinco a�os.\n2. Dictamen de Verificacion de las Instalaciones Electricas: Emitido por una UVIE, cuenta con cadena SEDIVER y vigencia de tres a�os. \n3. Dictamen de Verificacion de las Instalaciones de Gas. Solo para las guarderias que utilizan gas, emitido UV. Tiene una vigencia de tres a�os.\n\nEn todos los casos se debe actualizar dichos documentos cuando la guarderia presente modificaciones o existan eventos perturbadores.",
+                      "descripcion": "Las guarderias deben contar con los siguientes documentos vigentes:\n\n1. Constancia de seguridad estructural. Emitido por un DRO y vigencia de cinco anos.\n2. Dictamen de Verificacion de las Instalaciones Electricas: Emitido por una UVIE, cuenta con cadena SEDIVER y vigencia de tres anos. \n3. Dictamen de Verificacion de las Instalaciones de Gas. Solo para las guarderias que utilizan gas, emitido UV. Tiene una vigencia de tres anos.\n\nEn todos los casos se debe actualizar dichos documentos cuando la guarderia presente modificaciones o existan eventos perturbadores.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -262,7 +262,7 @@
                     {
                       "id": "3",
                       "numero": 3,
-                      "descripcion": "El registro de la entrada de la o el ni�o se realiza a traves del dispositivo de huella dactilar o en su caso con credencial de identificacion o bitacora de asistencia manual.",
+                      "descripcion": "El registro de la entrada de la o el nino se realiza a traves del dispositivo de huella dactilar o en su caso con credencial de identificacion o bitacora de asistencia manual.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -282,7 +282,7 @@
                     {
                       "id": "74",
                       "numero": 74,
-                      "descripcion": "El personal asignado al local de recepcion y control verifica que la salida de las o los ni�os se registre a traves del dispositivo de huella dactilar o en su caso, con credencial de identificacion o bitacora de asistencia manual.",
+                      "descripcion": "El personal asignado al local de recepcion y control verifica que la salida de las o los ninos se registre a traves del dispositivo de huella dactilar o en su caso, con credencial de identificacion o bitacora de asistencia manual.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -290,7 +290,7 @@
                     {
                       "id": "75",
                       "numero": 75,
-                      "descripcion": "El ni�o se entrega posterior a que el Trabajador Usuario o Persona Autorizada registra la salida.",
+                      "descripcion": "El nino se entrega posterior a que el Trabajador Usuario o Persona Autorizada registra la salida.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -316,7 +316,7 @@
                     {
                       "id": "20",
                       "numero": 20,
-                      "descripcion": "La distribucion fisica de personal en salas de atencion o grupos y areas de la guarderia donde se realicen actividades con los ni�os, se encuentra conforme a los indicadores de plantilla de personal de ni�os asistentes, de la ultima supervision o visita a la fecha.",
+                      "descripcion": "La distribucion fisica de personal en salas de atencion o grupos y areas de la guarderia donde se realicen actividades con los ninos, se encuentra conforme a los indicadores de plantilla de personal de ninos asistentes, de la ultima supervision o visita a la fecha.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -324,7 +324,7 @@
                     {
                       "id": "189",
                       "numero": 189,
-                      "descripcion": "En guarderias de prestacion indirecta, la plantilla de personal contratado por salas de atencion o grupos y areas de la guarderia, se encuentra conforme a los ni�os inscritos de acuerdo con los indicadores de plantilla de personal (de la ultima supervision o visita a la fecha).",
+                      "descripcion": "En guarderias de prestacion indirecta, la plantilla de personal contratado por salas de atencion o grupos y areas de la guarderia, se encuentra conforme a los ninos inscritos de acuerdo con los indicadores de plantilla de personal (de la ultima supervision o visita a la fecha).",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -370,7 +370,7 @@
                     {
                       "id": "176",
                       "numero": 176,
-                      "descripcion": "El personal de la guarderia mantiene las u�as cortas al ras, sin esmalte y no usa accesorios (aretes, anillos, collares, pulseras, piercings, pasadores o accesorios de cabello, fistoles).",
+                      "descripcion": "El personal de la guarderia mantiene las unas cortas al ras, sin esmalte y no usa accesorios (aretes, anillos, collares, pulseras, piercings, pasadores o accesorios de cabello, fistoles).",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -394,7 +394,7 @@
                     {
                       "id": "181",
                       "numero": 181,
-                      "descripcion": "El personal no usa el telefono celular mientras esta al cuidado de los ni�os. Solo lo puede utilizar en su tiempo de descanso o alguna situacion de emergencia. ",
+                      "descripcion": "El personal no usa el telefono celular mientras esta al cuidado de los ninos. Solo lo puede utilizar en su tiempo de descanso o alguna situacion de emergencia. ",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -448,7 +448,7 @@
                     {
                       "id": "195",
                       "numero": 195,
-                      "descripcion": "La Directora y todo el personal educativo de la guarderia, cuenta con acreditacion del curso \"Calidad de las interacciones entre el personal educativo de las guarderias IMSS y los ni�os y ni�as\". El personal educativo de nuevo ingreso toma el curso durante los dos primeros meses de su contratacion.",
+                      "descripcion": "La Directora y todo el personal educativo de la guarderia, cuenta con acreditacion del curso \"Calidad de las interacciones entre el personal educativo de las guarderias IMSS y los ninos y ninas\". El personal educativo de nuevo ingreso toma el curso durante los dos primeros meses de su contratacion.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -488,7 +488,7 @@
                     {
                       "id": "201",
                       "numero": 201,
-                      "descripcion": "Todo el personal de la guarderia esta capacitado anualmente de manera teorica y practica al menos en los siguientes temas: Proteccion civil; Curso para brindar primeros auxilios basicos para la atencion de los ni�os; Prevencion y combate de incendios; Evacuacion de los ni�os y Busqueda y rescate. La capacitacion es impartida por personas registradas ante el gobierno de la entidad federativa de que se trate y cuenta con un listado de participantes, carta descriptiva del curso y diploma o constancia por cada persona que aprobo el curso.",
+                      "descripcion": "Todo el personal de la guarderia esta capacitado anualmente de manera teorica y practica al menos en los siguientes temas: Proteccion civil; Curso para brindar primeros auxilios basicos para la atencion de los ninos; Prevencion y combate de incendios; Evacuacion de los ninos y Busqueda y rescate. La capacitacion es impartida por personas registradas ante el gobierno de la entidad federativa de que se trate y cuenta con un listado de participantes, carta descriptiva del curso y diploma o constancia por cada persona que aprobo el curso.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -526,7 +526,7 @@
                     {
                       "id": "205",
                       "numero": 205,
-                      "descripcion": "Verificar que el 100% de las Asistentes Educativas con escolaridad bachillerato cuenten con el Certificado en Estandar de Competencia 0435 \"Prestacion de servicios para la atencion, cuidado y desarrollo integral de los ni�os en centros de atencion infantil\", en un plazo maximo de tres meses posteriores a su contratacion.",
+                      "descripcion": "Verificar que el 100% de las Asistentes Educativas con escolaridad bachillerato cuenten con el Certificado en Estandar de Competencia 0435 \"Prestacion de servicios para la atencion, cuidado y desarrollo integral de los ninos en centros de atencion infantil\", en un plazo maximo de tres meses posteriores a su contratacion.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -534,7 +534,7 @@
                     {
                       "id": "206",
                       "numero": 206,
-                      "descripcion": "La Directora, Coordinadora Educativa y Educadora contratadas antes del 2018, que requirieron certificarse en el Estandar de Competencia 0435 \"Prestacion de servicios para la atencion, cuidado y desarrollo integral de los ni�os en centros de atencion infantil\", cuenten con el Certificado vigente conforme al periodo referido en la ficha tecnica del Estandar.",
+                      "descripcion": "La Directora, Coordinadora Educativa y Educadora contratadas antes del 2018, que requirieron certificarse en el Estandar de Competencia 0435 \"Prestacion de servicios para la atencion, cuidado y desarrollo integral de los ninos en centros de atencion infantil\", cuenten con el Certificado vigente conforme al periodo referido en la ficha tecnica del Estandar.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -684,7 +684,7 @@
                     {
                       "id": "29",
                       "numero": 29,
-                      "descripcion": "Los ni�os que se encuentren en sillas porta bebe o sillas infantiles (tipo periquera) tienen colocado el cinturon de seguridad a tres puntos.",
+                      "descripcion": "Los ninos que se encuentren en sillas porta bebe o sillas infantiles (tipo periquera) tienen colocado el cinturon de seguridad a tres puntos.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -710,7 +710,7 @@
                     {
                       "id": "72",
                       "numero": 72,
-                      "descripcion": "Cuenta con el programa anual de actividades del a�o en curso en coordinacion con la unidad medica de apoyo, para realizar acciones de apoyo a programas institucionales de promocion y fomento de la salud; con sus respectivos seguimientos y evaluacion de metas bimestrales",
+                      "descripcion": "Cuenta con el programa anual de actividades del ano en curso en coordinacion con la unidad medica de apoyo, para realizar acciones de apoyo a programas institucionales de promocion y fomento de la salud; con sus respectivos seguimientos y evaluacion de metas bimestrales",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -718,7 +718,7 @@
                     {
                       "id": "89",
                       "numero": 89,
-                      "descripcion": "La documentacion que conforma el Expediente del Ni�o esta completa y actualizada conforme a la \"Relacion de documentos que integra el expediente del ni�o\" y  el nombre al que pertenece la CURP coincide con el nombre la �Cedula de identificacion de la o el ni�o.\n",
+                      "descripcion": "La documentacion que conforma el Expediente del Nino esta completa y actualizada conforme a la \"Relacion de documentos que integra el expediente del nino\" y  el nombre al que pertenece la CURP coincide con el nombre la �Cedula de identificacion de la o el nino.\n",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -790,7 +790,7 @@
                     {
                       "id": "149",
                       "numero": 149,
-                      "descripcion": "Los asientos de los WC estandar cuentan con tapa reductora y banqueta de altura para el uso de los ni�os.",
+                      "descripcion": "Los asientos de los WC estandar cuentan con tapa reductora y banqueta de altura para el uso de los ninos.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -914,7 +914,7 @@
                     {
                       "id": "82",
                       "numero": 82,
-                      "descripcion": "La CURP de la o el ni�o registrada en SIAG coincide con el documento fisico que forma parte del Expediente del Ni�o (solicitud de inscripcion, acta de nacimiento o CURP impresa, en caso de que el dato no venga en el acta de nacimiento).",
+                      "descripcion": "La CURP de la o el nino registrada en SIAG coincide con el documento fisico que forma parte del Expediente del Nino (solicitud de inscripcion, acta de nacimiento o CURP impresa, en caso de que el dato no venga en el acta de nacimiento).",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -930,7 +930,7 @@
                     {
                       "id": "84",
                       "numero": 84,
-                      "descripcion": "Las y los ni�os que se encuentran fisicamente en la guarderia cuentan con registro de asistencia por cualquiera de los medios permitidos (biometrico, credencial y bitacora de asistencia).",
+                      "descripcion": "Las y los ninos que se encuentran fisicamente en la guarderia cuentan con registro de asistencia por cualquiera de los medios permitidos (biometrico, credencial y bitacora de asistencia).",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -938,7 +938,7 @@
                     {
                       "id": "85",
                       "numero": 85,
-                      "descripcion": "Las bajas de los ni�os de la ultima supervision a la fecha se aplicaron en la fecha establecida en el procedimiento de acuerdo a la situacion que dio origen a la baja.",
+                      "descripcion": "Las bajas de los ninos de la ultima supervision a la fecha se aplicaron en la fecha establecida en el procedimiento de acuerdo a la situacion que dio origen a la baja.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -946,7 +946,7 @@
                     {
                       "id": "86",
                       "numero": 86,
-                      "descripcion": "El personal que forma parte de la plantilla y que funge como como persona autorizada para entregar y recoger a la o el ni�o inscrito en la guarderia, acredita parentesco consanguineo o afinidad a traves del escrito de la persona usuaria y este se encuentra en el Expediente de la o el ni�o.",
+                      "descripcion": "El personal que forma parte de la plantilla y que funge como como persona autorizada para entregar y recoger a la o el nino inscrito en la guarderia, acredita parentesco consanguineo o afinidad a traves del escrito de la persona usuaria y este se encuentra en el Expediente de la o el nino.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -954,7 +954,7 @@
                     {
                       "id": "87",
                       "numero": 87,
-                      "descripcion": "Para los casos de las o los ni�os con ocho o mas inasistencias consecutivas, se cuenta con la documentacion probatoria para su justificacion en el expediente, de acuerdo a la normatividad vigente.",
+                      "descripcion": "Para los casos de las o los ninos con ocho o mas inasistencias consecutivas, se cuenta con la documentacion probatoria para su justificacion en el expediente, de acuerdo a la normatividad vigente.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -962,7 +962,7 @@
                     {
                       "id": "88",
                       "numero": 88,
-                      "descripcion": "Para los casos donde en el proceso de verificacion de vigencia de derechos hayan presentado \"No Coincidencia\" entre el SIAG y SINDO, y se trate de personas diferentes; la Directora realiza la consulta a inscripcion.guar@imss.gob.mx en los siguientes casos:\n\n1) Caso de nuevo ingreso: Se realizo la consulta y no se programo el proceso de adaptacion.\n2) Caso en ni�o inscrito: Se realizo la consulta y atendio lo indicado en la respuesta del mismo correo.",
+                      "descripcion": "Para los casos donde en el proceso de verificacion de vigencia de derechos hayan presentado \"No Coincidencia\" entre el SIAG y SINDO, y se trate de personas diferentes; la Directora realiza la consulta a inscripcion.guar@imss.gob.mx en los siguientes casos:\n\n1) Caso de nuevo ingreso: Se realizo la consulta y no se programo el proceso de adaptacion.\n2) Caso en nino inscrito: Se realizo la consulta y atendio lo indicado en la respuesta del mismo correo.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -978,7 +978,7 @@
                     {
                       "id": "237",
                       "numero": 237,
-                      "descripcion": "Todas las personas usuarias y/o autorizadas cuentan con foto y huella dactilar registrada. En caso contrario cuentan con la autorizacion del Departamento de Guarderias emitido en un plazo maximo de 10 dias posteriores a la inscripcion de la o el ni�o o de la actualizacion de la Cedula de identificacion del ni�o. ",
+                      "descripcion": "Todas las personas usuarias y/o autorizadas cuentan con foto y huella dactilar registrada. En caso contrario cuentan con la autorizacion del Departamento de Guarderias emitido en un plazo maximo de 10 dias posteriores a la inscripcion de la o el nino o de la actualizacion de la Cedula de identificacion del nino. ",
                       "nivelRiesgo": "N/A\nPC SIN PONDERACI�N",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1040,7 +1040,7 @@
                     {
                       "id": "154",
                       "numero": 154,
-                      "descripcion": "Todos los cables electricos estan fuera del alcance de los ni�os y cuentan con proteccion mediante canaletas, mangueras, tuberia rigida y recubrimiento aislante.",
+                      "descripcion": "Todos los cables electricos estan fuera del alcance de los ninos y cuentan con proteccion mediante canaletas, mangueras, tuberia rigida y recubrimiento aislante.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1064,7 +1064,7 @@
                     {
                       "id": "160",
                       "numero": 160,
-                      "descripcion": "Los elementos del inmueble como muros, columnas, pisos y techos no presentan da�os visibles, como aberturas delgadas (fisuras) o grandes (grietas), filtraciones, hundimientos, humedad o desprendimientos, que pongan en riesgo la seguridad, funcionalidad o la higiene del espacio.",
+                      "descripcion": "Los elementos del inmueble como muros, columnas, pisos y techos no presentan danos visibles, como aberturas delgadas (fisuras) o grandes (grietas), filtraciones, hundimientos, humedad o desprendimientos, que pongan en riesgo la seguridad, funcionalidad o la higiene del espacio.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1072,7 +1072,7 @@
                     {
                       "id": "171",
                       "numero": 171,
-                      "descripcion": "Los trabajos de conservacion de mantenimiento preventivo y correctivo se realizan cuando las y los ni�os no estan presentes en los locales o area de juegos. De considerarse necesario, los trabajos se programan fuera del horario de atencion de la guarderia.",
+                      "descripcion": "Los trabajos de conservacion de mantenimiento preventivo y correctivo se realizan cuando las y los ninos no estan presentes en los locales o area de juegos. De considerarse necesario, los trabajos se programan fuera del horario de atencion de la guarderia.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1142,7 +1142,7 @@
                     {
                       "id": "4",
                       "numero": 4,
-                      "descripcion": "El personal asignado al filtro, verifica que se registre la entrada de los ni�os en SIAG.",
+                      "descripcion": "El personal asignado al filtro, verifica que se registre la entrada de los ninos en SIAG.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1150,7 +1150,7 @@
                     {
                       "id": "5",
                       "numero": 5,
-                      "descripcion": "La recepcion del ni�o es posterior a que el trabajador usuario o persona autorizada registra la entrada en el SIAG.",
+                      "descripcion": "La recepcion del nino es posterior a que el trabajador usuario o persona autorizada registra la entrada en el SIAG.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1158,7 +1158,7 @@
                     {
                       "id": "6",
                       "numero": 6,
-                      "descripcion": "El ni�o de nuevo ingreso es recibido y entregado con su nombre completo en un lugar visible al frente de la prenda exterior (De 43 dias a 6 meses de edad, durante toda su permanencia en la sala de atencion o grupo y de 7 meses en adelante durante el primer mes).",
+                      "descripcion": "El nino de nuevo ingreso es recibido y entregado con su nombre completo en un lugar visible al frente de la prenda exterior (De 43 dias a 6 meses de edad, durante toda su permanencia en la sala de atencion o grupo y de 7 meses en adelante durante el primer mes).",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1166,7 +1166,7 @@
                     {
                       "id": "7",
                       "numero": 7,
-                      "descripcion": "Se recibe al ni�o despierto y con la cabeza descubierta.",
+                      "descripcion": "Se recibe al nino despierto y con la cabeza descubierta.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1174,7 +1174,7 @@
                     {
                       "id": "8",
                       "numero": 8,
-                      "descripcion": "Se revisa que los ni�os ingresen con las u�as cortas y sin portar alhajas.",
+                      "descripcion": "Se revisa que los ninos ingresen con las unas cortas y sin portar alhajas.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1182,7 +1182,7 @@
                     {
                       "id": "15",
                       "numero": 15,
-                      "descripcion": "Durante la recepcion del ni�o, se revisa aleatoriamente que la ropa y accesorios sean los solicitados y se verifica que esten marcados con el nombre completo del ni�o.",
+                      "descripcion": "Durante la recepcion del nino, se revisa aleatoriamente que la ropa y accesorios sean los solicitados y se verifica que esten marcados con el nombre completo del nino.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1190,7 +1190,7 @@
                     {
                       "id": "16",
                       "numero": 16,
-                      "descripcion": "Se recibe en la sala de atencion a los ni�os de 43 dias a 18 meses de edad y se verifica que el ni�o ingrese con pa�al limpio.",
+                      "descripcion": "Se recibe en la sala de atencion a los ninos de 43 dias a 18 meses de edad y se verifica que el nino ingrese con panal limpio.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1198,7 +1198,7 @@
                     {
                       "id": "17",
                       "numero": 17,
-                      "descripcion": "Se recibe en sala de atencion a los ni�os de 19 meses en adelante, unicamente cuando: sean de nuevo ingreso o esten iniciando aprendizaje para el control de esfinteres, o que la sala que les corresponda este ubicada en la planta alta de la unidad, o lleguen a la guarderia antes de las 06:00 horas o para el caso del esquema guarderia integradora que esten inscritos en los grupos I y II.",
+                      "descripcion": "Se recibe en sala de atencion a los ninos de 19 meses en adelante, unicamente cuando: sean de nuevo ingreso o esten iniciando aprendizaje para el control de esfinteres, o que la sala que les corresponda este ubicada en la planta alta de la unidad, o lleguen a la guarderia antes de las 06:00 horas o para el caso del esquema guarderia integradora que esten inscritos en los grupos I y II.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1206,7 +1206,7 @@
                     {
                       "id": "18",
                       "numero": 18,
-                      "descripcion": "A los ni�os de 19 meses en adelante y,  para el caso de esquema guarderia integradora, los inscritos en el grupo III y IV, se les recibe en el vestibulo y son trasladados por el personal hasta sus salas o grupos correspondientes.",
+                      "descripcion": "A los ninos de 19 meses en adelante y,  para el caso de esquema guarderia integradora, los inscritos en el grupo III y IV, se les recibe en el vestibulo y son trasladados por el personal hasta sus salas o grupos correspondientes.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1214,7 +1214,7 @@
                     {
                       "id": "76",
                       "numero": 76,
-                      "descripcion": "El personal asignado al vestibulo avisa al personal de la sala o grupo por el altavoz, el nombre completo (con apellidos) del ni�o que se va a retirar para ser entregado en mano o en brazos segun corresponda.",
+                      "descripcion": "El personal asignado al vestibulo avisa al personal de la sala o grupo por el altavoz, el nombre completo (con apellidos) del nino que se va a retirar para ser entregado en mano o en brazos segun corresponda.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1222,7 +1222,7 @@
                     {
                       "id": "80",
                       "numero": 80,
-                      "descripcion": "Se proporciona, en caso requerido, la informacion sobre la atencion de los ni�os (logros o incidencias) y de ser el caso, se devuelve el objeto transicional.",
+                      "descripcion": "Se proporciona, en caso requerido, la informacion sobre la atencion de los ninos (logros o incidencias) y de ser el caso, se devuelve el objeto transicional.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1230,7 +1230,7 @@
                     {
                       "id": "81",
                       "numero": 81,
-                      "descripcion": "Los ni�os con discapacidad que tienen indicado el uso de ayudas tecnicas, acuden y se retiran de la guarderia con ellas.\nNota: En el caso de Guarderia Integradora corroborar que las indicaciones medicas esten contempladas en el formato Especificacion de actividades en guarderia y en el Plan individual de desarrollo.",
+                      "descripcion": "Los ninos con discapacidad que tienen indicado el uso de ayudas tecnicas, acuden y se retiran de la guarderia con ellas.\nNota: En el caso de Guarderia Integradora corroborar que las indicaciones medicas esten contempladas en el formato Especificacion de actividades en guarderia y en el Plan individual de desarrollo.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1250,7 +1250,7 @@
                     {
                       "id": "77",
                       "numero": 77,
-                      "descripcion": "Se entrega en mano o en brazos segun corresponda, en la sala de atencion a los ni�os de 43 dias a 18 meses y de 19 meses en adelante unicamente cuando sea de nuevo ingreso, o este iniciando el control de esfinteres, o cuando la sala este en planta alta, o cuando se retire despues de las 22:00 horas, o cuando este inscrito en los grupos I y II del area de apoyo terapeutico.",
+                      "descripcion": "Se entrega en mano o en brazos segun corresponda, en la sala de atencion a los ninos de 43 dias a 18 meses y de 19 meses en adelante unicamente cuando sea de nuevo ingreso, o este iniciando el control de esfinteres, o cuando la sala este en planta alta, o cuando se retire despues de las 22:00 horas, o cuando este inscrito en los grupos I y II del area de apoyo terapeutico.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1258,7 +1258,7 @@
                     {
                       "id": "78",
                       "numero": 78,
-                      "descripcion": "A los ni�os de 19 meses en adelante y los inscritos en el grupo III y IV, se les entrega en el vestibulo al trabajador usuario o persona autorizada, ya sea en mano o en brazos segun corresponda.",
+                      "descripcion": "A los ninos de 19 meses en adelante y los inscritos en el grupo III y IV, se les entrega en el vestibulo al trabajador usuario o persona autorizada, ya sea en mano o en brazos segun corresponda.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1284,7 +1284,7 @@
                     {
                       "id": "21",
                       "numero": 21,
-                      "descripcion": "Se realiza la limpieza o lavado de manos del ni�o de acuerdo a su edad y tecnica correspondiente, antes y despues de ministrar alimentos y siempre que lo requieran.",
+                      "descripcion": "Se realiza la limpieza o lavado de manos del nino de acuerdo a su edad y tecnica correspondiente, antes y despues de ministrar alimentos y siempre que lo requieran.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1292,7 +1292,7 @@
                     {
                       "id": "25",
                       "numero": 25,
-                      "descripcion": "El personal que esta en contacto con los ni�os, se lava las manos con la tecnica normada en el momento o momentos requeridos por la actividad a realizar con los ni�os.",
+                      "descripcion": "El personal que esta en contacto con los ninos, se lava las manos con la tecnica normada en el momento o momentos requeridos por la actividad a realizar con los ninos.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1300,7 +1300,7 @@
                     {
                       "id": "41",
                       "numero": 41,
-                      "descripcion": "Se realiza el aseo bucal o cepillado de dientes del ni�o despues de ministrar alimentos con la tecnica normada.",
+                      "descripcion": "Se realiza el aseo bucal o cepillado de dientes del nino despues de ministrar alimentos con la tecnica normada.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1308,7 +1308,7 @@
                     {
                       "id": "47",
                       "numero": 47,
-                      "descripcion": "La limpieza de los genitales en las ni�as durante el cambio de pa�al, se realiza desde la zona vaginal hacia la zona anal (de adelante hacia atras).",
+                      "descripcion": "La limpieza de los genitales en las ninas durante el cambio de panal, se realiza desde la zona vaginal hacia la zona anal (de adelante hacia atras).",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1316,7 +1316,7 @@
                     {
                       "id": "66",
                       "numero": 66,
-                      "descripcion": "Se realiza la limpieza o lavado de cara del ni�o antes y despues de ministrar alimentos y cuando se requiera con la tecnica normada.",
+                      "descripcion": "Se realiza la limpieza o lavado de cara del nino antes y despues de ministrar alimentos y cuando se requiera con la tecnica normada.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1324,7 +1324,7 @@
                     {
                       "id": "67",
                       "numero": 67,
-                      "descripcion": "Se realiza la limpieza de fosas nasales del ni�o cuando se requiera con la tecnica normada.",
+                      "descripcion": "Se realiza la limpieza de fosas nasales del nino cuando se requiera con la tecnica normada.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1332,7 +1332,7 @@
                     {
                       "id": "69",
                       "numero": 69,
-                      "descripcion": "El lavado de cintura hacia abajo del ni�o se realiza de acuerdo con la tecnica establecida y el material indicado cuando se requiera.",
+                      "descripcion": "El lavado de cintura hacia abajo del nino se realiza de acuerdo con la tecnica establecida y el material indicado cuando se requiera.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1340,7 +1340,7 @@
                     {
                       "id": "71",
                       "numero": 71,
-                      "descripcion": "Se realiza la limpieza o lavado de manos del ni�o previo a la entrega con la tecnica normada.",
+                      "descripcion": "Se realiza la limpieza o lavado de manos del nino previo a la entrega con la tecnica normada.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1354,7 +1354,7 @@
                     {
                       "id": "43",
                       "numero": 43,
-                      "descripcion": "Previo al cambio de pa�al se cuenta con el material completo y al alcance para realizar la actividad.",
+                      "descripcion": "Previo al cambio de panal se cuenta con el material completo y al alcance para realizar la actividad.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1362,7 +1362,7 @@
                     {
                       "id": "44",
                       "numero": 44,
-                      "descripcion": "Durante el cambio de pa�al, se mantiene siempre una mano en contacto con el ni�o mientras se encuentra dentro del perimetro del cambiador.",
+                      "descripcion": "Durante el cambio de panal, se mantiene siempre una mano en contacto con el nino mientras se encuentra dentro del perimetro del cambiador.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1370,7 +1370,7 @@
                     {
                       "id": "45",
                       "numero": 45,
-                      "descripcion": "El personal retira la ropa de los ni�os y ni�as de la cintura hacia abajo antes del cambio de pa�al.",
+                      "descripcion": "El personal retira la ropa de los ninos y ninas de la cintura hacia abajo antes del cambio de panal.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1378,7 +1378,7 @@
                     {
                       "id": "46",
                       "numero": 46,
-                      "descripcion": "El personal retira el papel kraft  y lo sustituye en la colchoneta en cada cambio de pa�al y las veces que sea necesario.",
+                      "descripcion": "El personal retira el papel kraft  y lo sustituye en la colchoneta en cada cambio de panal y las veces que sea necesario.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1386,7 +1386,7 @@
                     {
                       "id": "48",
                       "numero": 48,
-                      "descripcion": "El personal revisa que los ni�os tengan el pa�al seco y realiza el cambio de pa�al cada que el ni�o lo requiere para evitar rozaduras.",
+                      "descripcion": "El personal revisa que los ninos tengan el panal seco y realiza el cambio de panal cada que el nino lo requiere para evitar rozaduras.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1394,7 +1394,7 @@
                     {
                       "id": "68",
                       "numero": 68,
-                      "descripcion": "El papel higienico en la limpieza de fosas nasales se utiliza una sola vez por ni�o y se deposita en el cesto de basura para evitar focos de infeccion.",
+                      "descripcion": "El papel higienico en la limpieza de fosas nasales se utiliza una sola vez por nino y se deposita en el cesto de basura para evitar focos de infeccion.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1456,7 +1456,7 @@
                     {
                       "id": "32",
                       "numero": 32,
-                      "descripcion": "Durante la ministracion de alimentos, se invita a comer a todos los ni�os de modo amable y constante, sin presionarlos ni obligarlos a consumir los alimentos y se atiende inmediatamente a aquellos que lloren.",
+                      "descripcion": "Durante la ministracion de alimentos, se invita a comer a todos los ninos de modo amable y constante, sin presionarlos ni obligarlos a consumir los alimentos y se atiende inmediatamente a aquellos que lloren.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1464,7 +1464,7 @@
                     {
                       "id": "33",
                       "numero": 33,
-                      "descripcion": "Inician la ministracion de alimentos con el ni�o que manifiesta mayor ansiedad.",
+                      "descripcion": "Inician la ministracion de alimentos con el nino que manifiesta mayor ansiedad.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1472,7 +1472,7 @@
                     {
                       "id": "34",
                       "numero": 34,
-                      "descripcion": "La tecnica de ministracion para ni�os de 43 dias a 3 meses se realiza en brazos.",
+                      "descripcion": "La tecnica de ministracion para ninos de 43 dias a 3 meses se realiza en brazos.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1480,7 +1480,7 @@
                     {
                       "id": "35",
                       "numero": 35,
-                      "descripcion": "La tecnica de ministracion para ni�os de 4 a 9 meses se realiza en silla porta bebe.",
+                      "descripcion": "La tecnica de ministracion para ninos de 4 a 9 meses se realiza en silla porta bebe.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1488,7 +1488,7 @@
                     {
                       "id": "36",
                       "numero": 36,
-                      "descripcion": "La tecnica de ministracion para ni�os de 10 a 16 meses se realiza en silla alta tipo periquera.",
+                      "descripcion": "La tecnica de ministracion para ninos de 10 a 16 meses se realiza en silla alta tipo periquera.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1496,7 +1496,7 @@
                     {
                       "id": "37",
                       "numero": 37,
-                      "descripcion": "La tecnica de ministracion para ni�os de 17 meses en adelante se realiza en silla y mesa infantil.",
+                      "descripcion": "La tecnica de ministracion para ninos de 17 meses en adelante se realiza en silla y mesa infantil.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1516,7 +1516,7 @@
                     {
                       "id": "38",
                       "numero": 38,
-                      "descripcion": "No se introduce alimento de manera forzada en la boca de los ni�os cuando estan llorando o durmiendo.",
+                      "descripcion": "No se introduce alimento de manera forzada en la boca de los ninos cuando estan llorando o durmiendo.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1524,7 +1524,7 @@
                     {
                       "id": "39",
                       "numero": 39,
-                      "descripcion": "Se hace eructar a los ni�os menores de 12 meses de edad a la mitad y al final de la ingesta.",
+                      "descripcion": "Se hace eructar a los ninos menores de 12 meses de edad a la mitad y al final de la ingesta.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1532,7 +1532,7 @@
                     {
                       "id": "40",
                       "numero": 40,
-                      "descripcion": "Posterior a la alimentacion, se deja reposar al ni�o menor de 12 meses de edad durante 60 minutos aproximadamente, manteniendo estrecha vigilancia.",
+                      "descripcion": "Posterior a la alimentacion, se deja reposar al nino menor de 12 meses de edad durante 60 minutos aproximadamente, manteniendo estrecha vigilancia.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1548,17 +1548,17 @@
           "nombre": "Pedagogia",
           "elementosEstandar": [
             {
-              "id": "es_pedagogia_pedagogia_sue�o_o_descanso",
-              "nombre": "Sue�o o descanso",
+              "id": "es_pedagogia_pedagogia_sueno_o_descanso",
+              "nombre": "Sueno o descanso",
               "elementosMedibles": [
                 {
-                  "id": "em_pedagogia_pedagogia_sue�o_o_descanso_preparacion",
+                  "id": "em_pedagogia_pedagogia_sueno_o_descanso_preparacion",
                   "nombre": "Preparacion",
                   "puntos": [
                     {
                       "id": "49",
                       "numero": 49,
-                      "descripcion": "Los periodos de sue�o o descanso son programados por rango de edad, respetando el ritmo de los ni�os.",
+                      "descripcion": "Los periodos de sueno o descanso son programados por rango de edad, respetando el ritmo de los ninos.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1566,7 +1566,7 @@
                     {
                       "id": "50",
                       "numero": 50,
-                      "descripcion": "Para los ni�os menores de 12 meses, el acomodo durante el sue�o o descanso, es completamente boca arriba, la cabeza y brazos se encuentran descubiertos de la sabana o cobertor para que no obstruya las vias respiratorias y solo se acuesta a un ni�o por cuna y el barandal debera permanecer en la altura maxima.",
+                      "descripcion": "Para los ninos menores de 12 meses, el acomodo durante el sueno o descanso, es completamente boca arriba, la cabeza y brazos se encuentran descubiertos de la sabana o cobertor para que no obstruya las vias respiratorias y solo se acuesta a un nino por cuna y el barandal debera permanecer en la altura maxima.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1574,7 +1574,7 @@
                     {
                       "id": "51",
                       "numero": 51,
-                      "descripcion": "Para los ni�os de 13 meses de edad en adelante, durante la actividad de sue�o o descanso las colchonetas deben estar alejadas de muebles, con espacio suficiente entre ellas para que el personal pueda desplazarse, los ni�os deben estar acostados cabeza con cabeza y pies con pies.",
+                      "descripcion": "Para los ninos de 13 meses de edad en adelante, durante la actividad de sueno o descanso las colchonetas deben estar alejadas de muebles, con espacio suficiente entre ellas para que el personal pueda desplazarse, los ninos deben estar acostados cabeza con cabeza y pies con pies.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1582,13 +1582,13 @@
                   ]
                 },
                 {
-                  "id": "em_pedagogia_pedagogia_sue�o_o_descanso_vigilancia",
+                  "id": "em_pedagogia_pedagogia_sueno_o_descanso_vigilancia",
                   "nombre": "Vigilancia",
                   "puntos": [
                     {
                       "id": "52",
                       "numero": 52,
-                      "descripcion": "Durante la actividad de sue�o o descanso, el personal realiza recorridos permanentes entre las cunas / colchonetas para verificar que los ni�os respiren correctamente, la temperatura corporal, la coloracion de la piel y que no manifiesten signos o sintomas de enfermedad.",
+                      "descripcion": "Durante la actividad de sueno o descanso, el personal realiza recorridos permanentes entre las cunas / colchonetas para verificar que los ninos respiren correctamente, la temperatura corporal, la coloracion de la piel y que no manifiesten signos o sintomas de enfermedad.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1596,7 +1596,7 @@
                     {
                       "id": "53",
                       "numero": 53,
-                      "descripcion": "Durante la actividad de sue�o o descanso, las cunas estan libres de juguetes y materiales blandos, en caso de haber objeto transicional se vigila que no obstruya las vias respiratorias.",
+                      "descripcion": "Durante la actividad de sueno o descanso, las cunas estan libres de juguetes y materiales blandos, en caso de haber objeto transicional se vigila que no obstruya las vias respiratorias.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1604,7 +1604,7 @@
                     {
                       "id": "54",
                       "numero": 54,
-                      "descripcion": "Durante el periodo de sue�o o descanso se realizan actividades con los ni�os que no desean dormir.",
+                      "descripcion": "Durante el periodo de sueno o descanso se realizan actividades con los ninos que no desean dormir.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1624,7 +1624,7 @@
                     {
                       "id": "55",
                       "numero": 55,
-                      "descripcion": "Antes de iniciar el horario de sue�o o descanso, se implementan estrategias diferentes como musica instrumental,  lectura en voz alta, canciones de cuna  para relajar a las ni�as y ni�os.",
+                      "descripcion": "Antes de iniciar el horario de sueno o descanso, se implementan estrategias diferentes como musica instrumental,  lectura en voz alta, canciones de cuna  para relajar a las ninas y ninos.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1632,7 +1632,7 @@
                     {
                       "id": "65",
                       "numero": 65,
-                      "descripcion": "En guarderias integradoras se debera verificar que para la totalidad de los ni�os inscritos en el area de Apoyo Terapeutico, el medico haya determinado que reune las condiciones de la columna B, relativa al tipo de ayuda o apoyo que requieren conforme a los criterios definidos en el apartado \"Guia para clasificar el funcionamiento de la discapacidad\", contenido en la \"Solicitud de Examen Medico de Admision (SEMA) o bien, en la ultima \"Solicitud para Seguimiento Medico - Terapeutico\" (SSMT), con maximo 6 meses de haber sido emitida.",
+                      "descripcion": "En guarderias integradoras se debera verificar que para la totalidad de los ninos inscritos en el area de Apoyo Terapeutico, el medico haya determinado que reune las condiciones de la columna B, relativa al tipo de ayuda o apoyo que requieren conforme a los criterios definidos en el apartado \"Guia para clasificar el funcionamiento de la discapacidad\", contenido en la \"Solicitud de Examen Medico de Admision (SEMA) o bien, en la ultima \"Solicitud para Seguimiento Medico - Terapeutico\" (SSMT), con maximo 6 meses de haber sido emitida.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1640,7 +1640,7 @@
                     {
                       "id": "112",
                       "numero": 112,
-                      "descripcion": "El personal complementa las actividades higienicas de los ni�os con juegos, cantos o rimas.",
+                      "descripcion": "El personal complementa las actividades higienicas de los ninos con juegos, cantos o rimas.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1648,7 +1648,7 @@
                     {
                       "id": "113",
                       "numero": 113,
-                      "descripcion": "Durante las actividades higienicas se establece contacto visual, verbal y afectivo con el ni�o, para llamar su atencion.",
+                      "descripcion": "Durante las actividades higienicas se establece contacto visual, verbal y afectivo con el nino, para llamar su atencion.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1658,17 +1658,17 @@
               ]
             },
             {
-              "id": "es_pedagogia_pedagogia_desarrollo_del_ni�o",
-              "nombre": "Desarrollo del ni�o",
+              "id": "es_pedagogia_pedagogia_desarrollo_del_nino",
+              "nombre": "Desarrollo del nino",
               "elementosMedibles": [
                 {
-                  "id": "em_pedagogia_pedagogia_desarrollo_del_ni�o_periodo_de_adaptacion",
+                  "id": "em_pedagogia_pedagogia_desarrollo_del_nino_periodo_de_adaptacion",
                   "nombre": "Periodo de adaptacion",
                   "puntos": [
                     {
                       "id": "56",
                       "numero": 56,
-                      "descripcion": "El proceso de adaptacion para los ni�os de nuevo ingreso de 43 dias de nacidos a 12 meses de edad, asi como los asignados a los grupos I y II, se realiza: el primer dia en compa�ia del trabajador usuario o persona autorizada a quien el ni�o reconozca; el segundo y tercer dia puede asistir una persona autorizada a quien el ni�o reconozca.",
+                      "descripcion": "El proceso de adaptacion para los ninos de nuevo ingreso de 43 dias de nacidos a 12 meses de edad, asi como los asignados a los grupos I y II, se realiza: el primer dia en compania del trabajador usuario o persona autorizada a quien el nino reconozca; el segundo y tercer dia puede asistir una persona autorizada a quien el nino reconozca.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1676,7 +1676,7 @@
                     {
                       "id": "57",
                       "numero": 57,
-                      "descripcion": "El proceso de adaptacion se realiza de manera gradual; el primer dia 4 horas, el segundo 5 horas y el tercer dia 6 horas, cuando la estancia del ni�o en la guarderia sera de 8 horas aproximadamente. Si es mayor a este tiempo, acudira 8 horas solo durante el ultimo dia de adaptacion. En ningun caso el tiempo puede reducirse.",
+                      "descripcion": "El proceso de adaptacion se realiza de manera gradual; el primer dia 4 horas, el segundo 5 horas y el tercer dia 6 horas, cuando la estancia del nino en la guarderia sera de 8 horas aproximadamente. Si es mayor a este tiempo, acudira 8 horas solo durante el ultimo dia de adaptacion. En ningun caso el tiempo puede reducirse.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1684,7 +1684,7 @@
                     {
                       "id": "58",
                       "numero": 58,
-                      "descripcion": "Se realiza proceso de adaptacion, con los ni�os que regresan a la guarderia despues de una ausencia mayor a 30 dias o cambio de guarderia.",
+                      "descripcion": "Se realiza proceso de adaptacion, con los ninos que regresan a la guarderia despues de una ausencia mayor a 30 dias o cambio de guarderia.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1692,13 +1692,13 @@
                   ]
                 },
                 {
-                  "id": "em_pedagogia_pedagogia_desarrollo_del_ni�o_evaluacion",
+                  "id": "em_pedagogia_pedagogia_desarrollo_del_nino_evaluacion",
                   "nombre": "Evaluacion",
                   "puntos": [
                     {
                       "id": "140",
                       "numero": 140,
-                      "descripcion": "Se encuentran en el \"Expediente pedagogico del ni�o\", la Evaluacion inicial y en los casos que aplique a partir de la fecha de ingreso a la guarderia:\n� La Evaluacion intermedia\n� La Evaluacion para cambio de sala o en su caso, para cambio de sala por madurez\n� Revaloraciones cuando se identifique a quienes se les aplico la Evaluacion para el cambio de sala y no lograron el 75% de las conductas esperadas para su edad\n� El Programa de estimulacion especifico de los ni�os que no lograron el 75% de las conductas esperadas en alguna area del desarrollo en la evaluacion para cambio de sala o el 55% en la evaluacion intermedia",
+                      "descripcion": "Se encuentran en el \"Expediente pedagogico del nino\", la Evaluacion inicial y en los casos que aplique a partir de la fecha de ingreso a la guarderia:\n� La Evaluacion intermedia\n� La Evaluacion para cambio de sala o en su caso, para cambio de sala por madurez\n� Revaloraciones cuando se identifique a quienes se les aplico la Evaluacion para el cambio de sala y no lograron el 75% de las conductas esperadas para su edad\n� El Programa de estimulacion especifico de los ninos que no lograron el 75% de las conductas esperadas en alguna area del desarrollo en la evaluacion para cambio de sala o el 55% en la evaluacion intermedia",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1706,7 +1706,7 @@
                     {
                       "id": "142",
                       "numero": 142,
-                      "descripcion": "Se canaliza con valoracion medica a los ni�os que no logran 75% de las conductas esperadas para la edad en algun area del desarrollo durante la revaloracion.",
+                      "descripcion": "Se canaliza con valoracion medica a los ninos que no logran 75% de las conductas esperadas para la edad en algun area del desarrollo durante la revaloracion.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1714,7 +1714,7 @@
                     {
                       "id": "144",
                       "numero": 144,
-                      "descripcion": "Se aplica evaluacion del desarrollo a ni�os en el area para apoyo terapeutico de guarderia integradora.",
+                      "descripcion": "Se aplica evaluacion del desarrollo a ninos en el area para apoyo terapeutico de guarderia integradora.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1742,7 +1742,7 @@
                     {
                       "id": "61",
                       "numero": 61,
-                      "descripcion": "La Planeacion de acciones pedagogicas considera actividades de atencion y cuidado del ni�o/a durante toda su estancia en la guarderia, con ambientes de aprendizaje, experiencias artisticas, lectura en voz alta  o cualquier otra que permita el desarrollo de capacidades psicomotrices, sensoriales y comunicativas, y las encaminadas a fomentar habitos saludables de los ni�os, conforme a sus necesidades; y las Asistentes Educativas interactuan y participan activamente con los ni�os durante la realizacion de las actividades pedagogicas. La duracion de las actividades podra ser flexible para respetar la atencion e intereses de los  ni�os.",
+                      "descripcion": "La Planeacion de acciones pedagogicas considera actividades de atencion y cuidado del nino/a durante toda su estancia en la guarderia, con ambientes de aprendizaje, experiencias artisticas, lectura en voz alta  o cualquier otra que permita el desarrollo de capacidades psicomotrices, sensoriales y comunicativas, y las encaminadas a fomentar habitos saludables de los ninos, conforme a sus necesidades; y las Asistentes Educativas interactuan y participan activamente con los ninos durante la realizacion de las actividades pedagogicas. La duracion de las actividades podra ser flexible para respetar la atencion e intereses de los  ninos.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1764,7 +1764,7 @@
                     {
                       "id": "63",
                       "numero": 63,
-                      "descripcion": "Se cuenta con el material didactico requerido de acuerdo con lo registrado en el formato de �Planeacion de acciones pedagogicas� y este alcanza para todos los ni�os.",
+                      "descripcion": "Se cuenta con el material didactico requerido de acuerdo con lo registrado en el formato de �Planeacion de acciones pedagogicas� y este alcanza para todos los ninos.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1772,7 +1772,7 @@
                     {
                       "id": "64",
                       "numero": 64,
-                      "descripcion": "Se realizan las actividades recreativas, al menos dos veces por dia en los horarios establecidos por rango de edad, en espacios abiertos conforme a las condiciones climatologicas o caracteristicas del inmueble y con el material suficiente para los ni�os.",
+                      "descripcion": "Se realizan las actividades recreativas, al menos dos veces por dia en los horarios establecidos por rango de edad, en espacios abiertos conforme a las condiciones climatologicas o caracteristicas del inmueble y con el material suficiente para los ninos.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1780,7 +1780,7 @@
                     {
                       "id": "79",
                       "numero": 79,
-                      "descripcion": "Los logros e incidencias de los ni�os obtenidos durante el dia, se registran en el Reporte de logros e incidencias diarias por sala de atencion, correspondiente al esquema de la guarderia y en su caso se canaliza de manera oportuna al area �Fomento de la Salud.",
+                      "descripcion": "Los logros e incidencias de los ninos obtenidos durante el dia, se registran en el Reporte de logros e incidencias diarias por sala de atencion, correspondiente al esquema de la guarderia y en su caso se canaliza de manera oportuna al area �Fomento de la Salud.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1796,7 +1796,7 @@
                     {
                       "id": "148",
                       "numero": 148,
-                      "descripcion": "Se considera lo siguiente para el uso de la bacinica:\n� Verifica que la bacinica este limpia, seca y en buenas condiciones antes de usarla.\n� Verifica que los ni�os esten sentados en las bacinicas por un lapso maximo de cinco a siete minutos.\n� Se colocan las bacinicas separadas una de otra para que los ni�os no corran riesgo alguno.",
+                      "descripcion": "Se considera lo siguiente para el uso de la bacinica:\n� Verifica que la bacinica este limpia, seca y en buenas condiciones antes de usarla.\n� Verifica que los ninos esten sentados en las bacinicas por un lapso maximo de cinco a siete minutos.\n� Se colocan las bacinicas separadas una de otra para que los ninos no corran riesgo alguno.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1804,7 +1804,7 @@
                     {
                       "id": "212",
                       "numero": 212,
-                      "descripcion": "Los ni�os se encuentran bajo supervision del personal, vigilando en todo momento su integridad y se encuentran permanentemente acompa�ados  (no se observan ni�os solos en la guarderia).",
+                      "descripcion": "Los ninos se encuentran bajo supervision del personal, vigilando en todo momento su integridad y se encuentran permanentemente acompanados  (no se observan ninos solos en la guarderia).",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1830,7 +1830,7 @@
                     {
                       "id": "143",
                       "numero": 143,
-                      "descripcion": "Se encuentra en el expediente pedagogico el formato \"Seguimiento de ni�os que presentan alteracion de conducta para el aprendizaje de la autorregulacion emocional\" de los ni�os que lo requieren con base en los registros del �Reporte de logros e incidencias diarias por sala de atencion o grupo�.",
+                      "descripcion": "Se encuentra en el expediente pedagogico el formato \"Seguimiento de ninos que presentan alteracion de conducta para el aprendizaje de la autorregulacion emocional\" de los ninos que lo requieren con base en los registros del �Reporte de logros e incidencias diarias por sala de atencion o grupo�.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1846,7 +1846,7 @@
                     {
                       "id": "146",
                       "numero": 146,
-                      "descripcion": "Se cuenta con el cuestionario para el control de esfinteres en el expediente pedagogico del ni�o con la firma del trabajador.",
+                      "descripcion": "Se cuenta con el cuestionario para el control de esfinteres en el expediente pedagogico del nino con la firma del trabajador.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1878,7 +1878,7 @@
                     {
                       "id": "9",
                       "numero": 9,
-                      "descripcion": "Durante el filtro sanitario, se realiza la toma de temperatura corporal del ni�o.",
+                      "descripcion": "Durante el filtro sanitario, se realiza la toma de temperatura corporal del nino.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1886,7 +1886,7 @@
                     {
                       "id": "10",
                       "numero": 10,
-                      "descripcion": "Durante la recepcion del ni�o, se observa al ni�o para identificar signos o sintomas de enfermedad o lesion fisica.",
+                      "descripcion": "Durante la recepcion del nino, se observa al nino para identificar signos o sintomas de enfermedad o lesion fisica.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1894,7 +1894,7 @@
                     {
                       "id": "11",
                       "numero": 11,
-                      "descripcion": "Se pregunta a la persona que entrega al ni�o si el ni�o presento signos o sintomas de enfermedad o le ha ocurrido algun evento fuera de la unidad que pudiera alterar su estado de salud, en caso necesario le realiza una revision  exhaustiva para determinar si requiere valoracion medica",
+                      "descripcion": "Se pregunta a la persona que entrega al nino si el nino presento signos o sintomas de enfermedad o le ha ocurrido algun evento fuera de la unidad que pudiera alterar su estado de salud, en caso necesario le realiza una revision  exhaustiva para determinar si requiere valoracion medica",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1902,7 +1902,7 @@
                     {
                       "id": "12",
                       "numero": 12,
-                      "descripcion": "Revision exhaustiva a los ni�os que faltaron a la unidad un dia antes o que el dia previo hayan presentado sintomatologia, que hayan sido reportados enfermos o con alguna eventualidad, aquellos que hayan sido enviados con valoracion medica, que presenten temperatura mayor a 37.5� C. o hayan convivido con personas que hayan presentado enfermedad transmisible en la guarderia o en la comunidad.",
+                      "descripcion": "Revision exhaustiva a los ninos que faltaron a la unidad un dia antes o que el dia previo hayan presentado sintomatologia, que hayan sido reportados enfermos o con alguna eventualidad, aquellos que hayan sido enviados con valoracion medica, que presenten temperatura mayor a 37.5� C. o hayan convivido con personas que hayan presentado enfermedad transmisible en la guarderia o en la comunidad.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1936,7 +1936,7 @@
                     {
                       "id": "59",
                       "numero": 59,
-                      "descripcion": "Se registran en el SIAG las vacunas que han sido aplicadas segun el esquema de inmunizaciones de la �Cartilla Nacional de Salud� el dia que ingresa el ni�o a la guarderia.",
+                      "descripcion": "Se registran en el SIAG las vacunas que han sido aplicadas segun el esquema de inmunizaciones de la �Cartilla Nacional de Salud� el dia que ingresa el nino a la guarderia.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1944,7 +1944,7 @@
                     {
                       "id": "91",
                       "numero": 91,
-                      "descripcion": "El �Control de inmunizaciones� se encuentra actualizado en SIAG con las fechas de las vacunas aplicadas conforme a la �Cartilla Nacional de Salud� mas reciente y los ni�os cuentan con el esquema basico de vacunacion completo. Varicela y Hepatitis A, completo.",
+                      "descripcion": "El �Control de inmunizaciones� se encuentra actualizado en SIAG con las fechas de las vacunas aplicadas conforme a la �Cartilla Nacional de Salud� mas reciente y los ninos cuentan con el esquema basico de vacunacion completo. Varicela y Hepatitis A, completo.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1958,7 +1958,7 @@
                     {
                       "id": "93",
                       "numero": 93,
-                      "descripcion": "A los ni�os que presentan signos y sintomas de enfermedad, o que sufrieron un accidente, se le brindan los cuidados inmediatos en la guarderia y se derivan para atencion medica oportuna.",
+                      "descripcion": "A los ninos que presentan signos y sintomas de enfermedad, o que sufrieron un accidente, se le brindan los cuidados inmediatos en la guarderia y se derivan para atencion medica oportuna.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1966,7 +1966,7 @@
                     {
                       "id": "95",
                       "numero": 95,
-                      "descripcion": "Realizan la deteccion de defectos de la agudeza visual a los ni�os a partir de los tres a�os de edad,  con apoyo del personal asignado a la sala o grupo de atencion, y lo registran en el �Control para la deteccion de defectos de agudeza visual�.",
+                      "descripcion": "Realizan la deteccion de defectos de la agudeza visual a los ninos a partir de los tres anos de edad,  con apoyo del personal asignado a la sala o grupo de atencion, y lo registran en el �Control para la deteccion de defectos de agudeza visual�.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -1998,7 +1998,7 @@
                     {
                       "id": "102",
                       "numero": 102,
-                      "descripcion": "Se realizan las mediciones de peso, talla y perimetro cefalico a los ni�os, conforme a la tecnica normada",
+                      "descripcion": "Se realizan las mediciones de peso, talla y perimetro cefalico a los ninos, conforme a la tecnica normada",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2014,7 +2014,7 @@
                     {
                       "id": "104",
                       "numero": 104,
-                      "descripcion": "Se cuenta con valoracion medica de los ni�os con alteracion de peso, talla o perimetro cefalico.",
+                      "descripcion": "Se cuenta con valoracion medica de los ninos con alteracion de peso, talla o perimetro cefalico.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2028,7 +2028,7 @@
                     {
                       "id": "94",
                       "numero": 94,
-                      "descripcion": "Se realiza seguimiento del ni�o que requirio atencion medica y en caso de que el trabajador usuario no informe sobre el resultado al dia habil siguiente, la Directora lo contacta por cualquier via para conocer el resultado.",
+                      "descripcion": "Se realiza seguimiento del nino que requirio atencion medica y en caso de que el trabajador usuario no informe sobre el resultado al dia habil siguiente, la Directora lo contacta por cualquier via para conocer el resultado.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2036,7 +2036,7 @@
                     {
                       "id": "96",
                       "numero": 96,
-                      "descripcion": "Los ni�os que se reincorporan a la unidad derivado de una enfermedad y requieren revaloracion medica previo a su reincorporacion a la guarderia, cuentan con valoracion medica y diagnostico que avale que sus condiciones de salud permiten su ingreso y permanencia.",
+                      "descripcion": "Los ninos que se reincorporan a la unidad derivado de una enfermedad y requieren revaloracion medica previo a su reincorporacion a la guarderia, cuentan con valoracion medica y diagnostico que avale que sus condiciones de salud permiten su ingreso y permanencia.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2044,7 +2044,7 @@
                     {
                       "id": "97",
                       "numero": 97,
-                      "descripcion": "Se identifican claramente en el �Registro de actividades de fomento de la salud� todos los signos y sintomas que presento el ni�o, asi como las acciones realizadas y el seguimiento brindado. En caso de alguna eventualidad de salud registrada en el \"Reporte de logros e incidencias diarias por sala de atencion o grupo\" (PI) / \"Reporte de logros e incidencias diarias por sala de atencion\" (PD), y el formato \"Informacion sobre la atencion de los ni�os,  debe estar registrado en el \"Registro de actividades de fomento de la salud\"  como evidencia de que fue valorado por la persona responsable de fomento de la salud.",
+                      "descripcion": "Se identifican claramente en el �Registro de actividades de fomento de la salud� todos los signos y sintomas que presento el nino, asi como las acciones realizadas y el seguimiento brindado. En caso de alguna eventualidad de salud registrada en el \"Reporte de logros e incidencias diarias por sala de atencion o grupo\" (PI) / \"Reporte de logros e incidencias diarias por sala de atencion\" (PD), y el formato \"Informacion sobre la atencion de los ninos,  debe estar registrado en el \"Registro de actividades de fomento de la salud\"  como evidencia de que fue valorado por la persona responsable de fomento de la salud.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2060,7 +2060,7 @@
                     {
                       "id": "187",
                       "numero": 187,
-                      "descripcion": "La \"Relacion mensual para la medicion de peso, talla y perimetro cefalico\" de las ni�as y ni�os se encuentra colocada en el vestibulo con las firmas correspondientes",
+                      "descripcion": "La \"Relacion mensual para la medicion de peso, talla y perimetro cefalico\" de las ninas y ninos se encuentra colocada en el vestibulo con las firmas correspondientes",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2102,7 +2102,7 @@
                     {
                       "id": "107",
                       "numero": 107,
-                      "descripcion": "Los ni�os con discapacidad y aquellos que el medico indico que requieren acudir a un programa de rehabilitacion, se encuentran registrados en el \"Control de ni�os con discapacidad\".",
+                      "descripcion": "Los ninos con discapacidad y aquellos que el medico indico que requieren acudir a un programa de rehabilitacion, se encuentran registrados en el \"Control de ninos con discapacidad\".",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2118,7 +2118,7 @@
                     {
                       "id": "109",
                       "numero": 109,
-                      "descripcion": "Los ni�os con discapacidad se atienden cumpliendo con las recomendaciones del terapeuta o medico tratante para la realizacion de actividades de traslado, higienicas, alimentacion o de sue�o/descanso. \n\nNota: Para guarderias Integradoras, corroborar que las recomendaciones del terapeuta o medico tratante esten contempladas en el formato \"Especificacion de actividades en guarderia\" y en el \"Plan individual de desarrollo\".",
+                      "descripcion": "Los ninos con discapacidad se atienden cumpliendo con las recomendaciones del terapeuta o medico tratante para la realizacion de actividades de traslado, higienicas, alimentacion o de sueno/descanso. \n\nNota: Para guarderias Integradoras, corroborar que las recomendaciones del terapeuta o medico tratante esten contempladas en el formato \"Especificacion de actividades en guarderia\" y en el \"Plan individual de desarrollo\".",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2126,7 +2126,7 @@
                     {
                       "id": "110",
                       "numero": 110,
-                      "descripcion": "Se brinda apoyo terapeutico a los ni�os con discapacidad inscritos en el area para Apoyo Terapeutico de Guarderia Integradora.\nNota: Corroborar que el apoyo terapeutico se ejecute conforme al Plan de actividades para apoyo terapeutico parcial.",
+                      "descripcion": "Se brinda apoyo terapeutico a los ninos con discapacidad inscritos en el area para Apoyo Terapeutico de Guarderia Integradora.\nNota: Corroborar que el apoyo terapeutico se ejecute conforme al Plan de actividades para apoyo terapeutico parcial.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2152,7 +2152,7 @@
                     {
                       "id": "92",
                       "numero": 92,
-                      "descripcion": "Se realizan acciones de coordinacion con la UMF de apoyo para la aplicacion de vacunas y actividades preventivas (estas acciones debe estar en el Programa anual de trabajo y deben contar con evidencia de que se comparte cada mes una copia de la \"Relacion de ni�os que les corresponde aplicacion de vacuna\" al Director/Directora de la unidad medica de apoyo).",
+                      "descripcion": "Se realizan acciones de coordinacion con la UMF de apoyo para la aplicacion de vacunas y actividades preventivas (estas acciones debe estar en el Programa anual de trabajo y deben contar con evidencia de que se comparte cada mes una copia de la \"Relacion de ninos que les corresponde aplicacion de vacuna\" al Director/Directora de la unidad medica de apoyo).",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2160,7 +2160,7 @@
                     {
                       "id": "141",
                       "numero": 141,
-                      "descripcion": "La Solicitud del Examen Medico de Admision que se encuentra en el Expediente de la o el ni�o cuenta con: \n-Diagnostico que resulto de la valoracion\n-Dictamen de que el ni�o reune las condiciones de salud para asistir a la guarderia \n-Sello de la UMF donde fue llenada (en caso de aplicar)\n-Nombre, Firma y Matricula (en caso del medico del IMSS) y cedula profesional (en caso de medico particular)\n\nNota: En guarderias integradoras se debera verificar que para la totalidad de los ni�os inscritos en el area de Apoyo Terapeutico, el medico haya determinado que reune las condiciones de la columna B, relativa al tipo de ayuda o apoyo que requieren conforme a los criterios definidos en el apartado \"Guia para clasificar el funcionamiento de la discapacidad\", contenido en la \"Solicitud de Examen Medico de Admision (SEMA) o bien, en la ultima \"Solicitud para Seguimiento Medico - Terapeutico\" (SSMT), con maximo 6 meses de haber sido emitida.",
+                      "descripcion": "La Solicitud del Examen Medico de Admision que se encuentra en el Expediente de la o el nino cuenta con: \n-Diagnostico que resulto de la valoracion\n-Dictamen de que el nino reune las condiciones de salud para asistir a la guarderia \n-Sello de la UMF donde fue llenada (en caso de aplicar)\n-Nombre, Firma y Matricula (en caso del medico del IMSS) y cedula profesional (en caso de medico particular)\n\nNota: En guarderias integradoras se debera verificar que para la totalidad de los ninos inscritos en el area de Apoyo Terapeutico, el medico haya determinado que reune las condiciones de la columna B, relativa al tipo de ayuda o apoyo que requieren conforme a los criterios definidos en el apartado \"Guia para clasificar el funcionamiento de la discapacidad\", contenido en la \"Solicitud de Examen Medico de Admision (SEMA) o bien, en la ultima \"Solicitud para Seguimiento Medico - Terapeutico\" (SSMT), con maximo 6 meses de haber sido emitida.",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2240,7 +2240,7 @@
                     {
                       "id": "24",
                       "numero": 24,
-                      "descripcion": "En la guarderia se promueve y facilita la lactancia materna exclusiva directa o indirecta para las y los ni�os de hasta 6 meses, y como lactancia materna complementaria a la alimentacion hasta los 24 meses o mas de edad; indicando a la trabajadora usuaria, persona autorizada o madre que proporciona lactancia materna, que podra acudir a la guarderia las veces que quiera durante el horario de servicio a amamantar a su hija o hijo. O bien, se indica a la trabajadora usuaria, persona autorizada o madre que proporciona la lactancia materna que puede asistir las veces que quiera durante el horario de servicio a entregar los frascos o biberones con leche materna para su hija o hijo, etiquetados con el nombre completo del ni�o, la sala o grupo de atencion, hora y fecha de extraccion y las cantidades conforme a la edad del ni�o, o a realizar la extraccion de la leche en la guarderia.",
+                      "descripcion": "En la guarderia se promueve y facilita la lactancia materna exclusiva directa o indirecta para las y los ninos de hasta 6 meses, y como lactancia materna complementaria a la alimentacion hasta los 24 meses o mas de edad; indicando a la trabajadora usuaria, persona autorizada o madre que proporciona lactancia materna, que podra acudir a la guarderia las veces que quiera durante el horario de servicio a amamantar a su hija o hijo. O bien, se indica a la trabajadora usuaria, persona autorizada o madre que proporciona la lactancia materna que puede asistir las veces que quiera durante el horario de servicio a entregar los frascos o biberones con leche materna para su hija o hijo, etiquetados con el nombre completo del nino, la sala o grupo de atencion, hora y fecha de extraccion y las cantidades conforme a la edad del nino, o a realizar la extraccion de la leche en la guarderia.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2262,7 +2262,7 @@
                     {
                       "id": "130",
                       "numero": 130,
-                      "descripcion": "La cantidad de alimentos y formulas infantiles recibidas coinciden con los solicitados en la \"etapa de solicitar viveres\" para Prestacion Directa o solicitar insumos para Prestacion Indirecta.\nNota: Para guarderias con doble turno o con area para apoyo terapeutico se debera considerar la totalidad de ni�as y ni�os asistentes.",
+                      "descripcion": "La cantidad de alimentos y formulas infantiles recibidas coinciden con los solicitados en la \"etapa de solicitar viveres\" para Prestacion Directa o solicitar insumos para Prestacion Indirecta.\nNota: Para guarderias con doble turno o con area para apoyo terapeutico se debera considerar la totalidad de ninas y ninos asistentes.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2322,7 +2322,7 @@
                     {
                       "id": "135",
                       "numero": 135,
-                      "descripcion": "Verificar que las modificaciones alimentarias prescritas a los ni�os se realicen con los insumos autorizados en el Cuadro basico de alimentos institucional y el Libro de Nutriologia del Compendio Nacional de Insumos para la Salud.",
+                      "descripcion": "Verificar que las modificaciones alimentarias prescritas a los ninos se realicen con los insumos autorizados en el Cuadro basico de alimentos institucional y el Libro de Nutriologia del Compendio Nacional de Insumos para la Salud.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2330,7 +2330,7 @@
                     {
                       "id": "138",
                       "numero": 138,
-                      "descripcion": "La cantidad de alimentos y formulas infantiles es suficiente para cubrir las raciones programadas.\nNota: Para guarderias con doble turno o con area para apoyo terapeutico se debera considerar la totalidad de ni�as y ni�os asistentes.",
+                      "descripcion": "La cantidad de alimentos y formulas infantiles es suficiente para cubrir las raciones programadas.\nNota: Para guarderias con doble turno o con area para apoyo terapeutico se debera considerar la totalidad de ninas y ninos asistentes.",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2344,7 +2344,7 @@
                     {
                       "id": "129",
                       "numero": 129,
-                      "descripcion": "Las planeaciones de alimentos se realizan en los tiempos establecidos y de acuerdo con lo establecido en la normatividad.\nNota: Para guarderias con doble turno o con area para apoyo terapeutico se debera considerar la totalidad de ni�os asistentes.",
+                      "descripcion": "Las planeaciones de alimentos se realizan en los tiempos establecidos y de acuerdo con lo establecido en la normatividad.\nNota: Para guarderias con doble turno o con area para apoyo terapeutico se debera considerar la totalidad de ninos asistentes.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2394,7 +2394,7 @@
                     {
                       "id": "22",
                       "numero": 22,
-                      "descripcion": "La guarderia cuenta con lugar destinado para  que la trabajadora usuaria, persona autorizada o madre que proporciona lactancia materna, pueda acudir a la guarderia las veces que quiera durante el horario de servicio a brindar lactancia materna hija o hijo, considerando una silla con descansabrazos y se�alizada con la leyenda \"Lactancia materna\"; en caso de que no se pueda realizar en la sala de usos multiples de lactantes o en la sala de Lactantes A, B, C, Maternal A y del grupo l, se debera adaptar un espacio limpio, comodo y privado.",
+                      "descripcion": "La guarderia cuenta con lugar destinado para  que la trabajadora usuaria, persona autorizada o madre que proporciona lactancia materna, pueda acudir a la guarderia las veces que quiera durante el horario de servicio a brindar lactancia materna hija o hijo, considerando una silla con descansabrazos y senalizada con la leyenda \"Lactancia materna\"; en caso de que no se pueda realizar en la sala de usos multiples de lactantes o en la sala de Lactantes A, B, C, Maternal A y del grupo l, se debera adaptar un espacio limpio, comodo y privado.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2402,7 +2402,7 @@
                     {
                       "id": "31",
                       "numero": 31,
-                      "descripcion": "Para los ni�os que toman biberon, se revisa el flujo del chupon y la temperatura de la formula infantil antes de su ministracion. (Flujo lento de 43 dias a 4 meses 29 dias de edad; Flujo medio de 5 a 9 meses 29 dias de edad; Flujo rapido de 10 a 11 meses 29 dias de edad).",
+                      "descripcion": "Para los ninos que toman biberon, se revisa el flujo del chupon y la temperatura de la formula infantil antes de su ministracion. (Flujo lento de 43 dias a 4 meses 29 dias de edad; Flujo medio de 5 a 9 meses 29 dias de edad; Flujo rapido de 10 a 11 meses 29 dias de edad).",
                       "nivelRiesgo": "Alto",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2424,7 +2424,7 @@
                     {
                       "id": "90",
                       "numero": 90,
-                      "descripcion": "Se aplica el cuestionario de Historia alimentaria a los ni�os de nuevo ingreso, en un plazo maximo de 5 dias.",
+                      "descripcion": "Se aplica el cuestionario de Historia alimentaria a los ninos de nuevo ingreso, en un plazo maximo de 5 dias.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2432,7 +2432,7 @@
                     {
                       "id": "114",
                       "numero": 114,
-                      "descripcion": "Se aplica el cuestionario de Seguimiento alimentario a los padres de los ni�os que presenten alteracion de peso.",
+                      "descripcion": "Se aplica el cuestionario de Seguimiento alimentario a los padres de los ninos que presenten alteracion de peso.",
                       "nivelRiesgo": "Bajo",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2486,7 +2486,7 @@
                     {
                       "id": "139",
                       "numero": 139,
-                      "descripcion": "Las actividades y rutinas de limpieza e higiene se realizan unicamente cuando las ni�as y los ni�os no se encuentran presentes en los espacios que utilizan, sin poner en riesgo su integridad ni la del personal de la guarderia.\n\n",
+                      "descripcion": "Las actividades y rutinas de limpieza e higiene se realizan unicamente cuando las ninas y los ninos no se encuentran presentes en los espacios que utilizan, sin poner en riesgo su integridad ni la del personal de la guarderia.\n\n",
                       "nivelRiesgo": "Medio",
                       "plantillaDetalle": "",
                       "plantillaAccion": ""
@@ -2549,12 +2549,12 @@
       "guarderiaNombre": "Centro Infantil El Florido",
       "razonSocial": "Centro Infantil El Florido, S.C.",
       "ciudadEstado": "Tijuana",
-      "directora": "Morayma Xuxdely Lizarraga Villase�or"
+      "directora": "Morayma Xuxdely Lizarraga Villasenor"
     },
     {
       "guarderiaNumero": "U-0158",
-      "guarderiaNombre": "Peque�o Mundo Montessori",
-      "razonSocial": "Estancia Infantil Peque�o Mundo Montessori S.C.",
+      "guarderiaNombre": "Pequeno Mundo Montessori",
+      "razonSocial": "Estancia Infantil Pequeno Mundo Montessori S.C.",
       "ciudadEstado": "Tijuana",
       "directora": "Adriana Sandoval Felix"
     },
@@ -2595,8 +2595,8 @@
     },
     {
       "guarderiaNumero": "U-0266",
-      "guarderiaNombre": "Mi Peque�o Amigo",
-      "razonSocial": "Mi Peque�o Amigo, A.C.",
+      "guarderiaNombre": "Mi Pequeno Amigo",
+      "razonSocial": "Mi Pequeno Amigo, A.C.",
       "ciudadEstado": "Mexicali",
       "directora": "Maria Maricela Espinoza Medina"
     },
@@ -2630,15 +2630,15 @@
     },
     {
       "guarderiaNumero": "U-0318",
-      "guarderiaNombre": "Guarderia Casa del Ni�o",
-      "razonSocial": "Guarderia Casa del Ni�o, S.C.",
+      "guarderiaNombre": "Guarderia Casa del Nino",
+      "razonSocial": "Guarderia Casa del Nino, S.C.",
       "ciudadEstado": "Mexicali",
       "directora": "Maria Alejandra Moya Villa"
     },
     {
       "guarderiaNumero": "U-0374",
       "guarderiaNombre": "Guarderia San Fernando Col. Cacho",
-      "razonSocial": "Colegio de Ense�anza Personalizada Pierre Faure S.C.",
+      "razonSocial": "Colegio de Ensenanza Personalizada Pierre Faure S.C.",
       "ciudadEstado": "Tijuana",
       "directora": "Estela Perez Perez"
     },
@@ -2689,7 +2689,7 @@
       "guarderiaNombre": "Guarderia Los Pinos",
       "razonSocial": "Vega Krumm y Asociados S.C.",
       "ciudadEstado": "Tijuana",
-      "directora": "Karla Fernanda de la Pe�a Russo"
+      "directora": "Karla Fernanda de la Pena Russo"
     },
     {
       "guarderiaNumero": "U-0679",
@@ -2707,8 +2707,8 @@
     },
     {
       "guarderiaNumero": "U-0754",
-      "guarderiaNombre": "Casa de los Peque�os Amigos",
-      "razonSocial": "Casa de los Peque�os Amigos Estancia Infantil, S.C.",
+      "guarderiaNombre": "Casa de los Pequenos Amigos",
+      "razonSocial": "Casa de los Pequenos Amigos Estancia Infantil, S.C.",
       "ciudadEstado": "Mexicali",
       "directora": "Maritza Sanchez de la Garza"
     },
@@ -2717,7 +2717,7 @@
       "guarderiaNombre": "Guarderia Mi Casita",
       "razonSocial": "Guarderia Mi Casita S.C.",
       "ciudadEstado": "Tijuana",
-      "directora": "Mariana Edith Villarruel Cere�o"
+      "directora": "Mariana Edith Villarruel Cereno"
     },
     {
       "guarderiaNumero": "U-1192",
@@ -2742,7 +2742,7 @@
     },
     {
       "guarderiaNumero": "U-1271",
-      "guarderiaNombre": "Guarderia la Mesa de Ense�anza",
+      "guarderiaNombre": "Guarderia la Mesa de Ensenanza",
       "razonSocial": "Educacion La Presa, S.C.",
       "ciudadEstado": "Tijuana",
       "directora": "Itzel Frimee Nicasio Lopez"
@@ -2780,7 +2780,7 @@
       "guarderiaNombre": "Estancias Infantiles de Baja California",
       "razonSocial": "Estancias Infantiles de Baja California A.C.",
       "ciudadEstado": "Tijuana",
-      "directora": "Leticia Isabel Casta�eda Mu�oz"
+      "directora": "Leticia Isabel Castaneda Munoz"
     },
     {
       "guarderiaNumero": "U-1365",
@@ -2794,12 +2794,12 @@
       "guarderiaNombre": "Estancias Infantiles de Baja California",
       "razonSocial": "Estancias Infantiles de Baja California, A.C.",
       "ciudadEstado": "Mexicali",
-      "directora": "Vianey Pe�a Cedano"
+      "directora": "Vianey Pena Cedano"
     },
     {
       "guarderiaNumero": "U-1448",
-      "guarderiaNombre": "Sue�os y Sonrisas",
-      "razonSocial": "Sue�os y Sonrisas, S.C.",
+      "guarderiaNombre": "Suenos y Sonrisas",
+      "razonSocial": "Suenos y Sonrisas, S.C.",
       "ciudadEstado": "Tijuana",
       "directora": "Ana Marlene Sandoval Magallon"
     },
@@ -2812,7 +2812,7 @@
     },
     {
       "guarderiaNumero": "U-1613",
-      "guarderiaNombre": "El Jardin de los Sue�os",
+      "guarderiaNombre": "El Jardin de los Suenos",
       "razonSocial": "Cuidado Educativo y Saludable Mxlbc, S. de R.L. de C.V.",
       "ciudadEstado": "Mexicali",
       "directora": "Kenia Guadalupe Lizarraga Sanchez"
@@ -2836,7 +2836,7 @@
       "guarderiaNombre": "Guarderia El Caracol Tijuana",
       "razonSocial": "Centro de Educacion Preescolar El Caracol S.C.",
       "ciudadEstado": "Tijuana",
-      "directora": "Iris Sarahi Duran Pe�uelas"
+      "directora": "Iris Sarahi Duran Penuelas"
     },
     {
       "guarderiaNumero": "U-1747",
@@ -2935,7 +2935,7 @@
       "guarderiaNumero": "U-0309"
     },
     {
-      "coordinadora": "Karla Mendoza Cese�a",
+      "coordinadora": "Karla Mendoza Cesena",
       "guarderiaNumero": "U-0310"
     },
     {
@@ -2943,7 +2943,7 @@
       "guarderiaNumero": "U-0315"
     },
     {
-      "coordinadora": "Karla Mendoza Cese�a",
+      "coordinadora": "Karla Mendoza Cesena",
       "guarderiaNumero": "U-0318"
     },
     {
@@ -2951,7 +2951,7 @@
       "guarderiaNumero": "U-0374"
     },
     {
-      "coordinadora": "Karla Mendoza Cese�a",
+      "coordinadora": "Karla Mendoza Cesena",
       "guarderiaNumero": "U-0375"
     },
     {
@@ -2967,7 +2967,7 @@
       "guarderiaNumero": "U-0380"
     },
     {
-      "coordinadora": "Librada Nu�ez Adame",
+      "coordinadora": "Librada Nunez Adame",
       "guarderiaNumero": "U-0674"
     },
     {
@@ -2979,7 +2979,7 @@
       "guarderiaNumero": "U-0677"
     },
     {
-      "coordinadora": "Librada Nu�ez Adame",
+      "coordinadora": "Librada Nunez Adame",
       "guarderiaNumero": "U-0679"
     },
     {
@@ -2987,7 +2987,7 @@
       "guarderiaNumero": "U-0753"
     },
     {
-      "coordinadora": "Karla Mendoza Cese�a",
+      "coordinadora": "Karla Mendoza Cesena",
       "guarderiaNumero": "U-0754"
     },
     {
@@ -3003,7 +3003,7 @@
       "guarderiaNumero": "U-1195"
     },
     {
-      "coordinadora": "Librada Nu�ez Adame",
+      "coordinadora": "Librada Nunez Adame",
       "guarderiaNumero": "U-1253"
     },
     {
@@ -3011,7 +3011,7 @@
       "guarderiaNumero": "U-1271"
     },
     {
-      "coordinadora": "Librada Nu�ez Adame",
+      "coordinadora": "Librada Nunez Adame",
       "guarderiaNumero": "U-1281"
     },
     {
@@ -3019,7 +3019,7 @@
       "guarderiaNumero": "U-1288"
     },
     {
-      "coordinadora": "Karla Mendoza Cese�a",
+      "coordinadora": "Karla Mendoza Cesena",
       "guarderiaNumero": "U-1295"
     },
     {
@@ -3027,7 +3027,7 @@
       "guarderiaNumero": "U-1306"
     },
     {
-      "coordinadora": "Librada Nu�ez Adame",
+      "coordinadora": "Librada Nunez Adame",
       "guarderiaNumero": "U-1345"
     },
     {
@@ -3051,7 +3051,7 @@
       "guarderiaNumero": "U-1613"
     },
     {
-      "coordinadora": "Librada Nu�ez Adame",
+      "coordinadora": "Librada Nunez Adame",
       "guarderiaNumero": "U-1646"
     },
     {
@@ -3071,7 +3071,7 @@
       "guarderiaNumero": "Y-0015"
     },
     {
-      "coordinadora": "Karla Mendoza Cese�a",
+      "coordinadora": "Karla Mendoza Cesena",
       "guarderiaNumero": "Y-0036"
     },
     {
