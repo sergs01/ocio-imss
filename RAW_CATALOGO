@@ -1,5 +1,5 @@
 {
-  "version": "2025-10-07",
+  "version": "2025-10-08",
   "procedimientos": [
     {
       "id": "proc_administracion",
@@ -22,22 +22,22 @@
                       "numero": 1,
                       "descripcion": "En el local de recepcion y control, el vigilante o elemento de seguridad lleva a cabo el control de acceso, conforme al tipo de ingreso que corresponda. Solicita credencial proporcionada y autorizada por la directora a las personas usuarias o autorizadas; al personal adscrito, su credencial institucional (directa) o credencial de identificacion personal (indirecta), y a personas ajenas, verifica el acceso mediante identificacion oficial y  registro correspondiente de entrada y salida.",
                       "nivelRiesgo": "Medio",
-                      "plantillaDetalle": "Durante la supervisi�n se observ� que no cumple con el procedimiento de control de acceso, ya que {motivo}.",
-                      "plantillaAccion": "Se realizar� {accion} para corregir la situaci�n detectada.",
+                      "plantillaDetalle": "Durante la supervision se observo que no cumple con el procedimiento de control de acceso, ya que {motivo}.",
+                      "plantillaAccion": "Se realizara {accion} para corregir la situaci�n detectada.",
                       "plantillasDetalle": {
-                        "base": "Durante la supervisi�n se observ� que no cumple con el procedimiento de control de acceso, ya que {motivo}.",
+                        "base": "Durante la supervision se observo que no cumple con el procedimiento de control de acceso, ya que {motivo}.",
                         "variantes": [
                           {
                             "label": "Ausencia de vigilante",
-                            "texto": "no se cont� con personal de vigilancia al momento del ingreso"
+                            "texto": "no se conto con personal de vigilancia al momento del ingreso"
                           },
                           {
-                            "label": "No solicita identificaci�n",
-                            "texto": "el vigilante no solicita identificaci�n al ingresar"
+                            "label": "No solicita identificacion",
+                            "texto": "el vigilante no solicita identificacion al ingresar"
                           },
                           {
-                            "label": "Presencia fuera de �rea",
-                            "texto": "el personal de vigilancia se encontraba fuera del �rea de trabajo asignada"
+                            "label": "Presencia fuera de area",
+                            "texto": "el personal de vigilancia se encontraba fuera del area de trabajo asignada"
                           },
                           {
                             "label": "Registro no supervisado",
@@ -48,45 +48,45 @@
                             "texto": "el registro de control de acceso no contiene nombres completos ni horarios de salida"
                           },
                           {
-                            "label": "Omisi�n parcial de ID",
-                            "texto": "el vigilante no solicita identificaci�n en todos los casos de ingreso"
+                            "label": "Omision parcial de ID",
+                            "texto": "el vigilante no solicita identificacion en todos los casos de ingreso"
                           },
                           {
                             "label": "Registro no llevado ajenos",
                             "texto": "no se lleva el registro de acceso de personas ajenas en los formatos correspondientes"
                           },
                           {
-                            "label": "Registro sin verificaci�n ajenas",
+                            "label": "Registro sin verificacion ajenas",
                             "texto": "el vigilante no verifica que las personas ajenas se registren con nombre completo en la libreta de acceso"
                           }
                         ]
                       },
                       "plantillasAccion": {
-                        "base": "Se realizar� {accion} para corregir la situaci�n detectada.",
+                        "base": "Se realizara {accion} para corregir la situaci�n detectada.",
                         "variantes": [
                           {
                             "label": "Cumplimiento procedimiento",
-                            "texto": "el cumplimiento del procedimiento para la administraci�n de recursos materiales del servicio de guarder�a de prestaci�n indirecta"
+                            "texto": "el cumplimiento del procedimiento para la administracion de recursos materiales del servicio de guarderia de prestaci�n indirecta"
                           },
                           {
-                            "label": "Asesor�a sobre registros",
-                            "texto": "la asesor�a a la directora para verificar que toda persona ajena registre su entrada y salida en el formato correspondiente"
+                            "label": "Asesoria sobre registros",
+                            "texto": "la asesoria a la directora para verificar que toda persona ajena registre su entrada y salida en el formato correspondiente"
                           },
                           {
                             "label": "Permanencia del vigilante",
-                            "texto": "la verificaci�n de que el personal de vigilancia permanezca en el �rea de recepci�n durante el horario del servicio"
+                            "texto": "la verificacion de que el personal de vigilancia permanezca en el area de recepcion durante el horario del servicio"
                           },
                           {
                             "label": "Compromiso normativo",
-                            "texto": "la realizaci�n de acciones para dar cumplimiento a la normatividad vigente"
+                            "texto": "la realizacion de acciones para dar cumplimiento a la normatividad vigente"
                           },
                           {
-                            "label": "Asesor�a sobre funciones",
-                            "texto": "la asesor�a a la directora para que el personal vigilante solicite credencial a usuarios y visitantes"
+                            "label": "Asesoria sobre funciones",
+                            "texto": "la asesoria a la directora para que el personal vigilante solicite credencial a usuarios y visitantes"
                           },
                           {
-                            "label": "Revisi�n continua",
-                            "texto": "la revisi�n por parte de la directora para asegurar que el personal vigilante cumpla con el procedimiento de acceso"
+                            "label": "Revision continua",
+                            "texto": "la revision por parte de la directora para asegurar que el personal vigilante cumpla con el procedimiento de acceso"
                           }
                         ]
                       }
